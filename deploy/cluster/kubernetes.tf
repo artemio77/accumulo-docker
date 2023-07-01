@@ -24,11 +24,6 @@ terraform {
       source  = "okta/okta"
       version = "~> 3.15"
     }
-
-    kubectl = {
-      source  = "gavinbunney/kubectl"
-      version = ">= 1.7.0"
-    }
   }
 }
 
@@ -178,6 +173,8 @@ resource "kind_cluster" "k8s" {
   name            = var.cluster_name
   kubeconfig_path = pathexpand(var.cluster_config_path)
   wait_for_ready  = true
+
+  depends_on = [okta_app_oauth.k8s_oidc, okta_auth_server.oidc_auth_server]
 
   kind_config {
     kind        = "Cluster"

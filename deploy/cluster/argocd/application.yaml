@@ -9,12 +9,12 @@ server:
         path: deploy/applications
         directory:
           recurse: true
-        destination:
-          server: https://kubernetes.default.svc
-        syncPolicy:
-          automated:
-            prune: false
-            selfHeal: false
+      destination:
+        server: https://kubernetes.default.svc
+      syncPolicy:
+        automated:
+          prune: false
+          selfHeal: false
     - name: cluster-infrastructure
       namespace: argocd
       project: default
@@ -30,3 +30,7 @@ server:
         automated:
           prune: false
           selfHeal: false
+  ingress:
+    enabled: true
+    hosts:
+      - argocd.k8s.aderevets
