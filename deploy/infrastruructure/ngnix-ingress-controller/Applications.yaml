@@ -1,0 +1,21 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: nginx
+spec:
+  project: ngnix-ingress-controller
+  source:
+    repoURL: https://github.com/artemio77/grockstock.git
+    targetRevision: HEAD
+    path: deploy/infrastructure/ngnix-ingress-controller
+    directory:
+      recurse: true
+    destination:
+      server: https://kubernetes.default.svc
+  destination:
+    namespace: nginx
+    name: in-cluster
+  syncPolicy:
+    automated: { }
+    syncOptions:
+      - CreateNamespace=true

@@ -1,0 +1,32 @@
+server:
+  additionalApplications:
+    - name: cluster-applications
+      namespace: argocd
+      project: default
+      source:
+        repoURL: https://github.com/artemio77/grockstock.git
+        targetRevision: HEAD
+        path: deploy/applications
+        directory:
+          recurse: true
+        destination:
+          server: https://kubernetes.default.svc
+        syncPolicy:
+          automated:
+            prune: false
+            selfHeal: false
+    - name: cluster-infrastructure
+      namespace: argocd
+      project: default
+      source:
+        repoURL: https://github.com/artemio77/grockstock.git
+        targetRevision: HEAD
+        path: deploy/infrastructure
+        directory:
+          recurse: true
+      destination:
+        server: https://kubernetes.default.svc
+      syncPolicy:
+        automated:
+          prune: false
+          selfHeal: false
