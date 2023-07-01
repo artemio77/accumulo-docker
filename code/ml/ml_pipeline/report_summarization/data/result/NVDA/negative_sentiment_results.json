@@ -1,0 +1,402 @@
+[
+    {
+        "Sentence": "gaming revenue for fiscal year 2023 was $ 9 . 07 billion , down 27 % from fiscal year 2022 .",
+        "Positive": 0.0074823820032179356,
+        "Negative": 0.9770879745483398,
+        "Neutral": 0.015429648570716381,
+        "Sentiment": "negative",
+        "MaxScore": 0.9770879745483398
+    },
+    {
+        "Sentence": "cmp revenue was nominal in fiscal year 2023 and $ 550 million in fiscal year 2022 . gross margin for fiscal year 2023 declined from a year ago , driven by $ 2 . 17 billion of inventory charges largely relating to excess supply of nvidia ampere architecture gaming and data center products as compared to the demand expectations for these products , particularly for the expected demand in china .",
+        "Positive": 0.007957612164318562,
+        "Negative": 0.9764707088470459,
+        "Neutral": 0.01557160820811987,
+        "Sentiment": "negative",
+        "MaxScore": 0.9764707088470459
+    },
+    {
+        "Sentence": "we brought geforce rtx 4080 - class performance to the geforce now ultimate membership tier . professional visualization revenue for fiscal year 2023 was $ 1 . 54 billion , down 27 % from fiscal year 2022 .",
+        "Positive": 0.008228554390370846,
+        "Negative": 0.9761591553688049,
+        "Neutral": 0.015612312592566013,
+        "Sentiment": "negative",
+        "MaxScore": 0.9761591553688049
+    },
+    {
+        "Sentence": "the increase also included growth in automotive development arrangements . oem and other revenue was down 61 % from a year ago driven by notebook oem and cmp .",
+        "Positive": 0.008194020949304104,
+        "Negative": 0.9760922193527222,
+        "Neutral": 0.015713708475232124,
+        "Sentiment": "negative",
+        "MaxScore": 0.9760922193527222
+    },
+    {
+        "Sentence": "cancellation or deferral of customer purchase orders could result in our holding excess inventory . the overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 7 . 5 % in fiscal year 2023 and 0 . 9 % in fiscal year 2022 .",
+        "Positive": 0.007903398014605045,
+        "Negative": 0.9718092679977417,
+        "Neutral": 0.020287353545427322,
+        "Sentiment": "negative",
+        "MaxScore": 0.9718092679977417
+    },
+    {
+        "Sentence": "our investment policy requires the purchase of highly rated fixed income securities , the diversification of investment types and credit exposures , and certain maturity limits on our portfolio . cash provided by operating activities decreased in fiscal year 2023 compared to fiscal year 2022 , primarily due to a decrease in net income adjusted for certain non - cash items , such as the arm acquisition termination cost of $ 1 . 35 billion , and higher tax payments , partially offset by changes in working capital .",
+        "Positive": 0.012512140907347202,
+        "Negative": 0.9717419147491455,
+        "Neutral": 0.015745829790830612,
+        "Sentiment": "negative",
+        "MaxScore": 0.9717419147491455
+    },
+    {
+        "Sentence": "we have also written - down our inventory , incurred cancellation penalties , and recorded impairments .",
+        "Positive": 0.008031120523810387,
+        "Negative": 0.9713630676269531,
+        "Neutral": 0.02060583047568798,
+        "Sentiment": "negative",
+        "MaxScore": 0.9713630676269531
+    },
+    {
+        "Sentence": "federal , state and foreign net operating loss carryforwards of $ 363 million , $ 329 million and $ 329 million , respectively .",
+        "Positive": 0.009644981473684311,
+        "Negative": 0.971252977848053,
+        "Neutral": 0.01910199224948883,
+        "Sentiment": "negative",
+        "MaxScore": 0.971252977848053
+    },
+    {
+        "Sentence": "additionally , if we are unable to sell our alternative product offerings in china , we may have excess inventory , harming our results .",
+        "Positive": 0.008042331784963608,
+        "Negative": 0.9699414968490601,
+        "Neutral": 0.022016117349267006,
+        "Sentiment": "negative",
+        "MaxScore": 0.9699414968490601
+    },
+    {
+        "Sentence": "the decrease in fiscal year 2023 was primarily due to $ 2 . 17 billion of inventory provisions in fiscal year 2023 , which consists of approximately $ 1 . 04 billion for inventory on hand and approximately $ 1 . 13 billion for inventory purchase obligations in excess of our current demand projections . inventory provisions totaled $ 2 . 17 billion and $ 354 million for fiscal years 2023 and 2022 , respectively .",
+        "Positive": 0.011293505318462849,
+        "Negative": 0.9688438773155212,
+        "Neutral": 0.019862640649080276,
+        "Sentiment": "negative",
+        "MaxScore": 0.9688438773155212
+    },
+    {
+        "Sentence": "additional export restrictions may not only impact our ability to serve overseas markets , but also provoke responses from foreign governments , including china , that negatively impact our supply chain or our ability to provide our products and services to customers in all markets worldwide , which could also substantially reduce our revenue . during the third quarter of fiscal year 2023 , the u . s .",
+        "Positive": 0.010003254748880863,
+        "Negative": 0.9684592485427856,
+        "Neutral": 0.021537519991397858,
+        "Sentiment": "negative",
+        "MaxScore": 0.9684592485427856
+    },
+    {
+        "Sentence": "in the event a disaster , war or catastrophic event affects us , the third - party systems on which we rely , or our customers , our business could be harmed as a result of declines in revenue , increases in expenses , and substantial expenditures and time spent to fully resume operations .",
+        "Positive": 0.008929479867219925,
+        "Negative": 0.968350887298584,
+        "Neutral": 0.02271958999335766,
+        "Sentiment": "negative",
+        "MaxScore": 0.968350887298584
+    },
+    {
+        "Sentence": "gaming revenue was down 27 % from a year ago reflecting lower sell - in to partners to help reduce channel inventory levels as global macro - economic conditions and covid - 19 related disruptions in china weighed on gaming demand . professional visualization revenue was down 27 % from a year ago reflecting a lower sell - in to partners to help reduce channel inventory levels . automotive revenue was up 60 % from a year ago reflecting growth in sales of self - driving solutions , computing solutions for electric vehicle makers and strength in sales of ai cockpit solutions .",
+        "Positive": 0.017917269840836525,
+        "Negative": 0.9683382511138916,
+        "Neutral": 0.0137445367872715,
+        "Sentiment": "negative",
+        "MaxScore": 0.9683382511138916
+    },
+    {
+        "Sentence": "qualification time for new products , customers anticipating product transitions and channel partners reducing channel inventory of legacy architectures ahead of new product introductions can create reductions or volatility in our revenue .",
+        "Positive": 0.010307001881301403,
+        "Negative": 0.9680722951889038,
+        "Neutral": 0.021620675921440125,
+        "Sentiment": "negative",
+        "MaxScore": 0.9680722951889038
+    },
+    {
+        "Sentence": "qualification time for new products , customers anticipating product transitions and channel partners reducing channel inventory of legacy architectures ahead of new product introductions can create reductions or volatility in our revenue .",
+        "Positive": 0.010307001881301403,
+        "Negative": 0.9680722951889038,
+        "Neutral": 0.021620675921440125,
+        "Sentiment": "negative",
+        "MaxScore": 0.9680722951889038
+    },
+    {
+        "Sentence": "26table of contentsidentification of material weaknesses in our internal controls , even if quickly remediated once disclosed , may cause investors to lose confidence in our financial statements and our stock price may decline .",
+        "Positive": 0.008814013563096523,
+        "Negative": 0.9677573442459106,
+        "Neutral": 0.02342861331999302,
+        "Sentiment": "negative",
+        "MaxScore": 0.9677573442459106
+    },
+    {
+        "Sentence": "these arrangements reduce the cash we have available for general business operations .",
+        "Positive": 0.00939116906374693,
+        "Negative": 0.9660928249359131,
+        "Neutral": 0.024516040459275246,
+        "Sentiment": "negative",
+        "MaxScore": 0.9660928249359131
+    },
+    {
+        "Sentence": "end customer sales for our products in china have been negatively impacted by lockdowns and this impact may continue if lockdowns return .",
+        "Positive": 0.013057439588010311,
+        "Negative": 0.9645506143569946,
+        "Neutral": 0.02239193022251129,
+        "Sentiment": "negative",
+        "MaxScore": 0.9645506143569946
+    },
+    {
+        "Sentence": "climate change , its impact on our supply chain and critical infrastructure worldwide , and its potential to increase political instability in regions where we , our customers , partners and our vendors do business , may disrupt our business and cause us to experience higher attrition , losses and costs to maintain or resume operations .",
+        "Positive": 0.009872891940176487,
+        "Negative": 0.9643620848655701,
+        "Neutral": 0.02576502412557602,
+        "Sentiment": "negative",
+        "MaxScore": 0.9643620848655701
+    },
+    {
+        "Sentence": "concurrently , the war in ukraine has impacted end customer sales in emea and may continue to do so in the future .",
+        "Positive": 0.009934785775840282,
+        "Negative": 0.9643526077270508,
+        "Neutral": 0.025712620466947556,
+        "Sentiment": "negative",
+        "MaxScore": 0.9643526077270508
+    },
+    {
+        "Sentence": "extreme heat and wind coupled with dry conditions in northern california may lead to power safety shut offs due to wildfire risk , which can have adverse implications for our santa clara , california headquarter offices and data centers , including impairing the ability of our employees to work effectively .",
+        "Positive": 0.007905415259301662,
+        "Negative": 0.9627270102500916,
+        "Neutral": 0.029367567971348763,
+        "Sentiment": "negative",
+        "MaxScore": 0.9627270102500916
+    },
+    {
+        "Sentence": "we may also experience contractual disputes due to supply chain delays arising from climate change - related disruptions , which could result in increased litigation and costs .",
+        "Positive": 0.010406467132270336,
+        "Negative": 0.962664008140564,
+        "Neutral": 0.026929624378681183,
+        "Sentiment": "negative",
+        "MaxScore": 0.962664008140564
+    },
+    {
+        "Sentence": "covid - 19 - related disruptions have created and may continue to create supply chain and logistics constraints .",
+        "Positive": 0.008910535834729671,
+        "Negative": 0.9618709087371826,
+        "Neutral": 0.029218515381217003,
+        "Sentiment": "negative",
+        "MaxScore": 0.9618709087371826
+    },
+    {
+        "Sentence": "in addition , geopolitical tensions , such as those involving taiwan and china , which comprise a significant portion of our revenue and where we have suppliers , contract manufacturers , and assembly partners who are critical to our supply continuity , could have a material adverse impact on us . the use of our gpus for other than that for which they were designed and marketed , including new and unexpected use cases , has impacted and can in the future impact demand for our products , including by leading to inconsistent spikes and drops in demand .",
+        "Positive": 0.00824055727571249,
+        "Negative": 0.9615710973739624,
+        "Neutral": 0.03018840029835701,
+        "Sentiment": "negative",
+        "MaxScore": 0.9615710973739624
+    },
+    {
+        "Sentence": "a decline in our stock price may result in reduced future tax benefits from stock - based compensation , increase our effective tax rate , and adversely affect our financial results .",
+        "Positive": 0.01004768069833517,
+        "Negative": 0.9615230560302734,
+        "Neutral": 0.028429269790649414,
+        "Sentiment": "negative",
+        "MaxScore": 0.9615230560302734
+    },
+    {
+        "Sentence": "we recorded an acquisition termination cost of $ 1 . 35 billion in fiscal year 2023 reflecting the write - off of the prepayment provided at signing .",
+        "Positive": 0.011163475923240185,
+        "Negative": 0.9613776206970215,
+        "Neutral": 0.027458932250738144,
+        "Sentiment": "negative",
+        "MaxScore": 0.9613776206970215
+    },
+    {
+        "Sentence": "further , our business liability insurance may be inadequate or future coverage may be unavailable on acceptable terms , which could adversely impact our financial results . risks related to our global operating businessadverse economic conditions may harm our business . economic and industry uncertainty or changes , including recession or slowing growth , inflation , changes or uncertainty in fiscal , monetary , or trade policy , disruptions to capital markets , currency fluctuations , higher interest rates , tighter credit , lower capital expenditures by businesses , including on it infrastructure , increases in unemployment , labor shortages , and lower consumer confidence and spending , have in the past and / or could in the future have adverse , wide - ranging effects on our business and financial results , including : & # 8226 ; increased costs for wafers , components , logistics , and other supply chain expenses , which have negatively impacted our gross margin and may continue to do so ; & # 8226 ; increased supply , employee , facilities and infrastructure costs and volatility in the financial markets , which have reduced and may in the future reduce our margins ; & # 8226 ; decrease in demand for our products , services and technologies and those of our customers , partners or licensees ; & # 8226 ; the inability of our suppliers to deliver on their supply commitments to us and our customers & # 8217 ; or our licensees & # 8217 ; inability to supply products to customers and / or end users ; & # 8226 ; limits on our ability to forecast operating results and make business decisions ; & # 8226 ; the insolvency of key suppliers , distributors , customers or licensing parties ; reduced profitability may also cause some customers to scale back operations , exit businesses , or file for bankruptcy protection and potentially cease operations ; lead to mergers , consolidations or strategic alliances among other companies , which could adversely affect our ability to compete effectively ; and & # 8226 ; increased credit and collectability risks , higher borrowing costs or reduced availability of capital markets , reduced liquidity , adverse impacts on our suppliers , failures of counterparties including financial institutions and insurers , asset impairments , and declines in the value of our financial instruments . international operations are a significant part of our business , which exposes us to us to risks that could harm our business . we conduct our business and have offices worldwide .",
+        "Positive": 0.009900989942252636,
+        "Negative": 0.960385799407959,
+        "Neutral": 0.02971329726278782,
+        "Sentiment": "negative",
+        "MaxScore": 0.960385799407959
+    },
+    {
+        "Sentence": "although we believe our tax estimates are reasonable , any adverse outcome could increase our worldwide effective tax rate , increase the amount of non - income taxes imposed on our business , and harm our financial position , results of operations , net income , and cash flows .",
+        "Positive": 0.011374902911484241,
+        "Negative": 0.9602441191673279,
+        "Neutral": 0.028380971401929855,
+        "Sentiment": "negative",
+        "MaxScore": 0.9602441191673279
+    },
+    {
+        "Sentence": "if we are unable to successfully compete in this environment , demand for our products , services and technologies could decrease , which would cause our revenue to decline . risks related to demand , supply and manufacturingfailure to estimate customer demand properly has led and could lead to mismatches between supply and demand . we use third parties to manufacture and assemble our products , and we have had and may in the future have long manufacturing lead times .",
+        "Positive": 0.010214769281446934,
+        "Negative": 0.9600629806518555,
+        "Neutral": 0.02972221001982689,
+        "Sentiment": "negative",
+        "MaxScore": 0.9600629806518555
+    },
+    {
+        "Sentence": "during fiscal year 2023 , end customer sales for our products in china have been negatively impacted by lockdowns and this impact may continue if lockdowns return .",
+        "Positive": 0.015473981387913227,
+        "Negative": 0.9600526690483093,
+        "Neutral": 0.024473369121551514,
+        "Sentiment": "negative",
+        "MaxScore": 0.9600526690483093
+    },
+    {
+        "Sentence": "any such defect may cause us to incur significant warranty , support and repair or replacement costs as part of a product recall or otherwise , write - off the value of related inventory , and divert the attention of our engineering and management personnel from our product development efforts to find and correct the issue .",
+        "Positive": 0.008878525346517563,
+        "Negative": 0.9596569538116455,
+        "Neutral": 0.031464528292417526,
+        "Sentiment": "negative",
+        "MaxScore": 0.9596569538116455
+    },
+    {
+        "Sentence": "in addition , based on the production schedules of key customers , some of our products for notebooks and game consoles typically generate stronger revenue in the second and third quarters , and weaker revenue in the fourth and first quarters .",
+        "Positive": 0.015543036162853241,
+        "Negative": 0.959193766117096,
+        "Neutral": 0.025263182818889618,
+        "Sentiment": "negative",
+        "MaxScore": 0.959193766117096
+    },
+    {
+        "Sentence": "we have experienced and may in the future experience reduced demand for current generation architectures when customers anticipate transitions , and we may be unable to sell multiple product architectures at the same time for current and future architecture transitions .",
+        "Positive": 0.013466836884617805,
+        "Negative": 0.9586299061775208,
+        "Neutral": 0.02790324203670025,
+        "Sentiment": "negative",
+        "MaxScore": 0.9586299061775208
+    },
+    {
+        "Sentence": "we recorded in operating expenses a $ 1 . 35 billion charge in fiscal year 2023 reflecting the write - off of the prepayment provided at signing .",
+        "Positive": 0.016748445108532906,
+        "Negative": 0.9577427506446838,
+        "Neutral": 0.025508884340524673,
+        "Sentiment": "negative",
+        "MaxScore": 0.9577427506446838
+    },
+    {
+        "Sentence": "inability to fulfill orders , delayed sales , lower margins or lost customers as a result of these disruptions could adversely affect our financial results , stock price and reputation . 23table of contentsbusiness disruptions could harm our operations , lead to a decline in revenue and increase our costs . our worldwide operations could be disrupted by natural disasters and extreme weather conditions , power or water shortages , telecommunications failures , cloud service provider outages , terrorist attacks , or acts of violence , political and / or civil unrest , acts of war or other military actions , epidemics or pandemics and other natural or man - made disasters and catastrophic events .",
+        "Positive": 0.007624917663633823,
+        "Negative": 0.9572769403457642,
+        "Neutral": 0.03509819507598877,
+        "Sentiment": "negative",
+        "MaxScore": 0.9572769403457642
+    },
+    {
+        "Sentence": "our effective tax rate for fiscal year 2022 was lower than the u . s .",
+        "Positive": 0.014917154796421528,
+        "Negative": 0.9571502208709717,
+        "Neutral": 0.027932601049542427,
+        "Sentiment": "negative",
+        "MaxScore": 0.9571502208709717
+    },
+    {
+        "Sentence": "the decline in revenue outside the u . s .",
+        "Positive": 0.020936394110322,
+        "Negative": 0.956612765789032,
+        "Neutral": 0.0224508885294199,
+        "Sentiment": "negative",
+        "MaxScore": 0.956612765789032
+    },
+    {
+        "Sentence": "as a result , the overall net effect on our gross margin was an unfavorable impact of 7 . 5 % and 0 . 9 % in fiscal years 2023 and 2022 , respectively . compute networking - the gross margin of our compute networking segment decreased during fiscal year 2023 when compared to fiscal year 2022 , primarily due to inventory provisions . graphics - the gross margin of our graphics segment decreased during fiscal year 2023 when compared to fiscal year 2022 , primarily due to inventory and related provisions and lower margins of geforce gpus . 42table of contentsoperating expenses & # 160 ; year ended & # 160 ; january 29 , 2023january 30 , 2022 $ change % change & # 160 ; ( $ in millions ) research and development expenses $ 7 , 339 & # 160 ; $ 5 , 268 & # 160 ; $ 2 , 071 & # 160 ; 39 & # 160 ; % % of revenue27 . 2 & # 160 ; % 19 . 6 & # 160 ; % & # 160 ; & # 160 ; sales , general and administrative expenses2 , 440 & # 160 ; 2 , 166 & # 160 ; 274 & # 160 ; 13 & # 160 ; % % of revenue9 . 1 & # 160 ; % 8 . 0 & # 160 ; % & # 160 ; & # 160 ; acquisition termination cost1 , 353 & # 160 ; & # 8212 ; & # 160 ; 1 , 353 & # 160 ; 100 & # 160 ; % % of revenue5 . 0 & # 160 ; % & # 8212 ; & # 160 ; % total operating expenses $ 11 , 132 & # 160 ; $ 7 , 434 & # 160 ; $ 3 , 698 & # 160 ; 50 & # 160 ; % % of revenue41 . 3 & # 160 ; % 27 . 6 & # 160 ; % the increase in research and development expense for fiscal year 2023 was primarily driven by increased compensation , employee growth , engineering development costs , and data center infrastructure . the increase in sales , general and administrative expense for fiscal year 2023 was primarily driven by increased compensation and employee growth . we recorded an acquisition termination cost related to the arm transaction of $ 1 . 35 billion in fiscal year 2023 reflecting the write - off of the prepayment provided at signing . other income ( expense ) , net & # 160 ; year ended & # 160 ; january 29 , 2023january 30 , 2022 $",
+        "Positive": 0.0135654890909791,
+        "Negative": 0.9563406705856323,
+        "Neutral": 0.030093789100646973,
+        "Sentiment": "negative",
+        "MaxScore": 0.9563406705856323
+    },
+    {
+        "Sentence": "if we fail to fulfill our customers & # 8217 ; orders on a timely basis , or at all , our customer relationships could be damaged , we could lose revenue and market share and our reputation could be harmed . if we overestimate our customers & # 8217 ; future demand for our products , or if customers cancel or defer orders or choose to purchase from our competitors , we may not be able to reduce our inventory or other contractual purchase commitments .",
+        "Positive": 0.010406960733234882,
+        "Negative": 0.955950915813446,
+        "Neutral": 0.033642109483480453,
+        "Sentiment": "negative",
+        "MaxScore": 0.955950915813446
+    },
+    {
+        "Sentence": "we may be required to reimburse our customers , partners or consumers , including for costs to repair or replace products in the field or in connection with indemnification obligations , or pay fines imposed by regulatory agencies . 21table of contentsfor example , a defect was identified in a third - party component embedded in certain data center products .",
+        "Positive": 0.010376589372754097,
+        "Negative": 0.955616295337677,
+        "Neutral": 0.034007176756858826,
+        "Sentiment": "negative",
+        "MaxScore": 0.955616295337677
+    },
+    {
+        "Sentence": "our operations could be harmed and our costs could increase if manufacturing , logistics or other operations are disrupted for any reason , including natural disasters , high heat events or water shortages , information technology system failures , military actions or economic , business , labor , environmental , public health , or political issues .",
+        "Positive": 0.009513326920568943,
+        "Negative": 0.9553812742233276,
+        "Neutral": 0.03510531038045883,
+        "Sentiment": "negative",
+        "MaxScore": 0.9553812742233276
+    },
+    {
+        "Sentence": "the impact of covid - 19 can also exacerbate other risks discussed in these risk factors . our operating results have in the past fluctuated and may in the future fluctuate , and if our operating results are below the expectations of securities analysts or investors , our stock price could decline . our operating results have in the past fluctuated and may continue to fluctuate due to numerous factors described in these risk factors .",
+        "Positive": 0.012190279550850391,
+        "Negative": 0.9551653861999512,
+        "Neutral": 0.03264438733458519,
+        "Sentiment": "negative",
+        "MaxScore": 0.9551653861999512
+    },
+    {
+        "Sentence": "compliance with government regulation in the area of ai ethics may also increase the cost of related research and development , and changes in ai - related regulation could disproportionately impact and disadvantage us and require us to change our business practices , which may negatively impact our financial results .",
+        "Positive": 0.00945728924125433,
+        "Negative": 0.9549197554588318,
+        "Neutral": 0.0356229767203331,
+        "Sentiment": "negative",
+        "MaxScore": 0.9549197554588318
+    },
+    {
+        "Sentence": "these changes may be costly and disruptive to our operations and could impose substantial demands on management time .",
+        "Positive": 0.009345615282654762,
+        "Negative": 0.9547826647758484,
+        "Neutral": 0.0358717143535614,
+        "Sentiment": "negative",
+        "MaxScore": 0.9547826647758484
+    },
+    {
+        "Sentence": "worldwide geopolitical tensions and conflicts , including but not limited to china , hong kong , israel , korea and taiwan where the manufacture of our product components and final assembly of our products are concentrated may result in changing regulatory requirements , and other disruptions that could impact our operations and operating strategies , product demand , access to global markets , hiring , and profitability .",
+        "Positive": 0.008912266232073307,
+        "Negative": 0.9544284343719482,
+        "Neutral": 0.036659371107816696,
+        "Sentiment": "negative",
+        "MaxScore": 0.9544284343719482
+    },
+    {
+        "Sentence": "increasing use of economic sanctions may also impact demand for our products or services , negatively impacting our business and financial results .",
+        "Positive": 0.009016616269946098,
+        "Negative": 0.9542259573936462,
+        "Neutral": 0.03675750270485878,
+        "Sentiment": "negative",
+        "MaxScore": 0.9542259573936462
+    },
+    {
+        "Sentence": "failure to implement new or updated controls , or difficulties encountered in their implementation , could harm our operating results or cause us to fail to meet our reporting obligations .",
+        "Positive": 0.010218964889645576,
+        "Negative": 0.9533324837684631,
+        "Neutral": 0.03644857183098793,
+        "Sentiment": "negative",
+        "MaxScore": 0.9533324837684631
+    },
+    {
+        "Sentence": "additional risks , trends and uncertainties not presently known to us or that we currently believe are immaterial may also harm our business , financial condition , results of operations or reputation . risk factors summaryrisks related to our industry and markets & # 8226 ; failure to meet the evolving needs of our industry and markets may adversely impact our financial results . 15table of contents & # 8226 ; competition in our current and target markets could cause us to lose market share and revenue . risks related to demand , supply and manufacturing & # 8226 ; failure to estimate customer demand properly has led and could lead to mismatches between supply and demand . & # 8226 ; dependency on third - party suppliers and their technology reduces our control over product quantity and quality , manufacturing yields , development , enhancement , and product delivery schedules and could harm our business . & # 8226 ; defects in our products have caused and could cause us to incur significant expenses to remediate and can damage our business . risks related to our global operating business & # 8226 ; adverse economic conditions may harm our business . & # 8226 ; international operations are a significant part of our business , and economic , political , business , and other changes in the regions in which we operate may expose us to risks that could harm our business . & # 8226 ; product , system security , and data breaches and cyber - attacks could disrupt our operations and adversely affect our financial condition , stock price and reputation . & # 8226 ; business disruptions could harm our operations and financial results .",
+        "Positive": 0.008993352763354778,
+        "Negative": 0.9530192613601685,
+        "Neutral": 0.03798737749457359,
+        "Sentiment": "negative",
+        "MaxScore": 0.9530192613601685
+    },
+    {
+        "Sentence": "covid - 19 has also resulted in , and may continue to result in , disruption of and volatility in global financial markets , which could impact overall technology spending or negatively affect our stock price and liquidity .",
+        "Positive": 0.010334469377994537,
+        "Negative": 0.9524601697921753,
+        "Neutral": 0.03720531612634659,
+        "Sentiment": "negative",
+        "MaxScore": 0.9524601697921753
+    },
+    {
+        "Sentence": "cmp contributed an insignificant amount in fiscal year 2023 compared to $ 550 million in fiscal year 2022 . graphics - the year - on - year decrease primarily reflects lower sell - in to partners to help reduce channel inventory levels as global macro - economic conditions and covid - 19 related disruptions in china weighed on gaming demand . concentration of revenuerevenue from sales to customers outside of the united states accounted for & # 160 ; 69 % and 84 % of total revenue for fiscal years 2023 and 2022 , respectively .",
+        "Positive": 0.0336722768843174,
+        "Negative": 0.9522884488105774,
+        "Neutral": 0.014039270579814911,
+        "Sentiment": "negative",
+        "MaxScore": 0.9522884488105774
+    }
+]

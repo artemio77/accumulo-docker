@@ -1,0 +1,586 @@
+[
+    {
+        "Sentence": "automotive leasing revenue decreased $ 104 million , or 16 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.007368949241936207,
+        "Negative": 0.9753450155258179,
+        "Neutral": 0.017285987734794617,
+        "Sentiment": "negative",
+        "MaxScore": 0.9753450155258179
+    },
+    {
+        "Sentence": "cash flows from financing activities net cash used in financing activities decreased by $ 1 . 68 billion to $ 233 million during the three months ended march 31 , 2023 from $ 1 . 91 billion during the three months ended march 31 , 2022 .",
+        "Positive": 0.007796240039169788,
+        "Negative": 0.9751948118209839,
+        "Neutral": 0.017009036615490913,
+        "Sentiment": "negative",
+        "MaxScore": 0.9751948118209839
+    },
+    {
+        "Sentence": "automotive regulatory credits revenue decreased $ 158 million , or 23 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.0072509911842644215,
+        "Negative": 0.9750499129295349,
+        "Neutral": 0.01769905537366867,
+        "Sentiment": "negative",
+        "MaxScore": 0.9750499129295349
+    },
+    {
+        "Sentence": "gross margin for total automotive decreased from 32 . 9 % to 21 . 1 % in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.008032888174057007,
+        "Negative": 0.9739355444908142,
+        "Neutral": 0.018031645566225052,
+        "Sentiment": "negative",
+        "MaxScore": 0.9739355444908142
+    },
+    {
+        "Sentence": "rd expenses as a percentage of revenue decreased from 5 % to 3 % in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.008026503026485443,
+        "Negative": 0.9717665910720825,
+        "Neutral": 0.02020697295665741,
+        "Sentiment": "negative",
+        "MaxScore": 0.9717665910720825
+    },
+    {
+        "Sentence": "gross margin for total automotive services and other segment decreased from 30 . 5 % to 19 . 9 % in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 , primarily due to the automotive gross margin decrease discussed above , partially offset by an improvement in our services and other gross margin .",
+        "Positive": 0.01185667235404253,
+        "Negative": 0.9717608690261841,
+        "Neutral": 0.016382480040192604,
+        "Sentiment": "negative",
+        "MaxScore": 0.9717608690261841
+    },
+    {
+        "Sentence": "our effective tax rate decreased from 10 % to 9 % in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 , primarily due to changes in mix of jurisdictional earnings .",
+        "Positive": 0.011346821673214436,
+        "Negative": 0.9699492454528809,
+        "Neutral": 0.018703937530517578,
+        "Sentiment": "negative",
+        "MaxScore": 0.9699492454528809
+    },
+    {
+        "Sentence": "cost of automotive leasing revenue decreased $ 75 million , or 18 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 , primarily due to a decrease in direct sales - type leasing cost of revenue driven by lower deliveries year over year .",
+        "Positive": 0.01367410272359848,
+        "Negative": 0.9698972105979919,
+        "Neutral": 0.01642869971692562,
+        "Sentiment": "negative",
+        "MaxScore": 0.9698972105979919
+    },
+    {
+        "Sentence": "there was also a decrease of 2 , 630 model s and model x deliveries year over year .",
+        "Positive": 0.012066613882780075,
+        "Negative": 0.9697785973548889,
+        "Neutral": 0.018154870718717575,
+        "Sentiment": "negative",
+        "MaxScore": 0.9697785973548889
+    },
+    {
+        "Sentence": "during the three months ended march 31 , 2023 and 2022 , we recorded write - downs of $ 39 million and $ 26 million , respectively , in cost of revenues in the consolidated statements of operations .",
+        "Positive": 0.009661244228482246,
+        "Negative": 0.9672930240631104,
+        "Neutral": 0.023045673966407776,
+        "Sentiment": "negative",
+        "MaxScore": 0.9672930240631104
+    },
+    {
+        "Sentence": "the overall decrease was primarily driven by additional costs in the three months ended march 31 , 2022 as compared to the current period , as we were in the pre - production phase at gigafactory texas and started production at gigafactory berlin - brandenburg only closer to the end of the first quarter of 2022 .",
+        "Positive": 0.011563252657651901,
+        "Negative": 0.9627731442451477,
+        "Neutral": 0.025663545355200768,
+        "Sentiment": "negative",
+        "MaxScore": 0.9627731442451477
+    },
+    {
+        "Sentence": "summary of cash flows & # 160 ; & # 160 ; & # 160 ; three months ended march 31 , & # 160 ; ( dollars in millions ) & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; net cash provided by operating activities & # 160 ; $ 2 , 513 & # 160 ; & # 160 ; $ 3 , 995 & # 160 ; net cash used in investing activities & # 160 ; $ ( 2 , 484 ) & # 160 ; $ ( 2 , 167 ) net cash used in financing activities & # 160 ; $ ( 233 ) & # 160 ; $ ( 1 , 914 ) & # 160 ; cash flows from operating activities net cash provided by operating activities decreased by $ 1 . 48 billion to $ 2 . 51 billion during the three months ended march 31 , 2023 from $ 4 . 00 billion during the three months ended march 31 , 2022 .",
+        "Positive": 0.011914201080799103,
+        "Negative": 0.9613494277000427,
+        "Neutral": 0.026736333966255188,
+        "Sentiment": "negative",
+        "MaxScore": 0.9613494277000427
+    },
+    {
+        "Sentence": "28 & # 160 ; provision for income taxes & # 160 ; & # 160 ; & # 160 ; three months ended march 31 , & # 160 ; & # 160 ; change & # 160 ; ( dollars in millions ) & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; & # 160 ; $ & # 160 ; & # 160 ; % & # 160 ; provision for income taxes & # 160 ; $ 261 & # 160 ; & # 160 ; $ 346 & # 160 ; & # 160 ; $ ( 85 ) & # 160 ; & # 160 ; ( 25 ) % effective tax rate & # 160 ; & # 160 ; 9 % & # 160 ; & # 160 ; 10 % & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; our provision for income taxes decreased by $ 85 million , or 25 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 , primarily due to the change in our pre - tax income year over year .",
+        "Positive": 0.01202783826738596,
+        "Negative": 0.9605382084846497,
+        "Neutral": 0.027433916926383972,
+        "Sentiment": "negative",
+        "MaxScore": 0.9605382084846497
+    },
+    {
+        "Sentence": "our cash flows provided by operating activities during the three months ended march 2023 and 2022 were $ 2 . 51 billion and $ 4 . 00 billion , respectively , representing a decrease of $ 1 . 48 billion .",
+        "Positive": 0.03304129093885422,
+        "Negative": 0.9570785760879517,
+        "Neutral": 0.00988016091287136,
+        "Sentiment": "negative",
+        "MaxScore": 0.9570785760879517
+    },
+    {
+        "Sentence": "as a result , the damages awarded against tesla were reduced from an initial $ 136 . 9 million ( october 4 , 2021 ) down to $ 15 million ( april 13 , 2022 ) , and then further down to $ 3 . 175 million ( april 3 , 2023 ) . on february 9 , 2022 , shortly after the first diaz jury verdict , the california civil rights department ( & # x201d ; crd , & # x201d ; formerly & # x201c ; dfeh & # x201d ; ) filed a civil complaint against tesla in alameda county , california superior court , alleging systemic race discrimination , hostile work environment and pay equity claims , among others .",
+        "Positive": 0.013464286923408508,
+        "Negative": 0.9482746124267578,
+        "Neutral": 0.038261041045188904,
+        "Sentiment": "negative",
+        "MaxScore": 0.9482746124267578
+    },
+    {
+        "Sentence": "there were also idle capacity charges primarily related to the ramping up of production in gigafactory texas and our proprietary battery cells manufacturing during the three months ended march 31 , 2023 .",
+        "Positive": 0.009655976668000221,
+        "Negative": 0.9479469060897827,
+        "Neutral": 0.0423971526324749,
+        "Sentiment": "negative",
+        "MaxScore": 0.9479469060897827
+    },
+    {
+        "Sentence": "the change is primarily due to a decrease in direct sales - type leasing revenue driven by lower deliveries year over year .",
+        "Positive": 0.023975158110260963,
+        "Negative": 0.9461761116981506,
+        "Neutral": 0.029848773032426834,
+        "Sentiment": "negative",
+        "MaxScore": 0.9461761116981506
+    },
+    {
+        "Sentence": "this decrease was primarily due to the overall increase in net operating assets and liabilities of $ 928 million and the decrease in net income excluding non - cash expenses , gains and losses of $ 554 million .",
+        "Positive": 0.03457608073949814,
+        "Negative": 0.9456875324249268,
+        "Neutral": 0.019736379384994507,
+        "Sentiment": "negative",
+        "MaxScore": 0.9456875324249268
+    },
+    {
+        "Sentence": "on january 24 , 2022 , tesla filed multiple counterclaims as part of its answer to the underlying lawsuit , asserting among other points that jp morgan should have terminated the stock warrant agreement in 2018 rather than make an adjustment to the strike price that it should have known would lead to a commercially unreasonable result .",
+        "Positive": 0.01374984160065651,
+        "Negative": 0.9432696104049683,
+        "Neutral": 0.042980581521987915,
+        "Sentiment": "negative",
+        "MaxScore": 0.9432696104049683
+    },
+    {
+        "Sentence": "the decrease was primarily due to a $ 1 . 64 billion decrease in repayments of convertible and other debt .",
+        "Positive": 0.04641406238079071,
+        "Negative": 0.9390513896942139,
+        "Neutral": 0.01453449483960867,
+        "Sentiment": "negative",
+        "MaxScore": 0.9390513896942139
+    },
+    {
+        "Sentence": "for example , if our near - term manufacturing operations decrease in scale or ramp more slowly than expected , including due to global economic or business conditions , we may choose to correspondingly slow the pace of our capital expenditures .",
+        "Positive": 0.012092320248484612,
+        "Negative": 0.933951735496521,
+        "Neutral": 0.053956013172864914,
+        "Sentiment": "negative",
+        "MaxScore": 0.933951735496521
+    },
+    {
+        "Sentence": "during the three months ended march 31 , 2023 , our net income attributable to common stockholders was $ 2 . 51 billion , representing an unfavorable change of $ 805 million , compared to the prior year .",
+        "Positive": 0.05406060069799423,
+        "Negative": 0.9325578808784485,
+        "Neutral": 0.013381530530750751,
+        "Sentiment": "negative",
+        "MaxScore": 0.9325578808784485
+    },
+    {
+        "Sentence": "those cases have also been consolidated and stayed pending the entry of judgment in the above - referenced consolidated purported stockholder class action . on october 21 , 2022 , a lawsuit was filed in the delaware court of chancery by a purported shareholder of tesla alleging , among other things , that board members breached their fiduciary duties in connection with their oversight of the company & # x2019 ; s 2018 settlement with the sec , as amended .",
+        "Positive": 0.012792503461241722,
+        "Negative": 0.92821204662323,
+        "Neutral": 0.05899534747004509,
+        "Sentiment": "negative",
+        "MaxScore": 0.92821204662323
+    },
+    {
+        "Sentence": "tesla disputed jp morgan & # x2019 ; s adjustment as a violation of the parties & # x2019 ; agreement .",
+        "Positive": 0.013304164633154869,
+        "Negative": 0.916614830493927,
+        "Neutral": 0.0700809508562088,
+        "Sentiment": "negative",
+        "MaxScore": 0.916614830493927
+    },
+    {
+        "Sentence": "the parties reached an agreement to stay the case until june 5 , 2023 . 18 & # 160 ; on november 15 , 2021 , jpmorgan chase bank ( & # x201c ; jp morgan & # x201d ; ) filed a lawsuit against tesla in the southern district of new york alleging breach of a stock warrant agreement that was entered into as part of a convertible notes offering in 2014 .",
+        "Positive": 0.019006269052624702,
+        "Negative": 0.9118801355361938,
+        "Neutral": 0.0691136047244072,
+        "Sentiment": "negative",
+        "MaxScore": 0.9118801355361938
+    },
+    {
+        "Sentence": "we have also experienced , and will continue to experience , fluctuations in our net income as a result of gains ( losses ) on the settlement and the re - measurement of monetary assets and liabilities denominated in currencies that are not the local currency ( primarily consisting of our intercompany and cash and cash equivalents balances ) .",
+        "Positive": 0.045573677867650986,
+        "Negative": 0.9117570519447327,
+        "Neutral": 0.04266926646232605,
+        "Sentiment": "negative",
+        "MaxScore": 0.9117570519447327
+    },
+    {
+        "Sentence": "we believe that any proceeding that is material to our business or financial condition is likely to have potential penalties far in excess of such amount .",
+        "Positive": 0.0216172244399786,
+        "Negative": 0.9065635800361633,
+        "Neutral": 0.07181917130947113,
+        "Sentiment": "negative",
+        "MaxScore": 0.9065635800361633
+    },
+    {
+        "Sentence": "in an effort to curb this trend , central banks in developed countries raised interest rates rapidly and substantially , impacting the affordability of vehicle lease and finance arrangements .",
+        "Positive": 0.04064758121967316,
+        "Negative": 0.8891637921333313,
+        "Neutral": 0.07018861174583435,
+        "Sentiment": "negative",
+        "MaxScore": 0.8891637921333313
+    },
+    {
+        "Sentence": "we had also incurred costs related to the ramp up of production in gigafactory berlin - brandenburg during the three months ended march 31 , 2022 .",
+        "Positive": 0.046077702194452286,
+        "Negative": 0.8852100372314453,
+        "Neutral": 0.0687122792005539,
+        "Sentiment": "negative",
+        "MaxScore": 0.8852100372314453
+    },
+    {
+        "Sentence": "on september 22 , 2022 , tesla filed a cross complaint against crd , alleging that it violated the administrative procedures act by failing to follow statutory pre - requisites prior to filing suit and that cross complaint was subject to a sustained demurrer , which tesla later amended and refiled .",
+        "Positive": 0.01630241982638836,
+        "Negative": 0.884343683719635,
+        "Neutral": 0.09935390204191208,
+        "Sentiment": "negative",
+        "MaxScore": 0.884343683719635
+    },
+    {
+        "Sentence": "on november 16 , 2021 , tesla filed a post - trial motion for relief that included a request for a new trial or reduction of the jury & # x2019 ; s damages .",
+        "Positive": 0.04295358434319496,
+        "Negative": 0.8820630311965942,
+        "Neutral": 0.0749833956360817,
+        "Sentiment": "negative",
+        "MaxScore": 0.8820630311965942
+    },
+    {
+        "Sentence": "on april 13 , 2023 , a putative tesla shareholder filed a related shareholder derivative complaint against the members of tesla & # x2019 ; s board of directors and certain current and former executives , alleging contribution for violations of the federal securities law , breach of fiduciary duties , waste , and unjust enrichment .",
+        "Positive": 0.012909089215099812,
+        "Negative": 0.8785173296928406,
+        "Neutral": 0.10857357084751129,
+        "Sentiment": "negative",
+        "MaxScore": 0.8785173296928406
+    },
+    {
+        "Sentence": "some of these measures are expected to materially affect our consolidated financial statements .",
+        "Positive": 0.017030151560902596,
+        "Negative": 0.873127281665802,
+        "Neutral": 0.10984256118535995,
+        "Sentiment": "negative",
+        "MaxScore": 0.873127281665802
+    },
+    {
+        "Sentence": "five of those actions were consolidated , and all seven actions have been stayed pending resolution of the above - referenced consolidated purported stockholder class action .",
+        "Positive": 0.012292577885091305,
+        "Negative": 0.8697458505630493,
+        "Neutral": 0.11796154826879501,
+        "Sentiment": "negative",
+        "MaxScore": 0.8697458505630493
+    },
+    {
+        "Sentence": "those actions have been consolidated and stayed pending the above - referenced chancery court litigation . 17 & # 160 ; litigation relating to 2018 ceo performance awardon june 4 , 2018 , a purported tesla stockholder filed a putative class and derivative action in the delaware court of chancery against elon musk and the members of tesla & # x2019 ; s board of directors as then constituted , alleging corporate waste , unjust enrichment and that such board members breached their fiduciary duties by approving the stock - based compensation plan awarded to elon musk in 2018 .",
+        "Positive": 0.014773095026612282,
+        "Negative": 0.8644710183143616,
+        "Neutral": 0.12075593322515488,
+        "Sentiment": "negative",
+        "MaxScore": 0.8644710183143616
+    },
+    {
+        "Sentence": "27 & # 160 ; research and development expense & # 160 ; & # 160 ; & # 160 ; three months ended march 31 , & # 160 ; & # 160 ; change & # 160 ; ( dollars in millions ) & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; & # 160 ; $ & # 160 ; & # 160 ; % & # 160 ; research and development & # 160 ; $ 771 & # 160 ; & # 160 ; $ 865 & # 160 ; & # 160 ; $ ( 94 ) & # 160 ; & # 160 ; ( 11 ) % as a percentage of revenues & # 160 ; & # 160 ; 3 % & # 160 ; & # 160 ; 5 % & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; research and development ( & # x201c ; rd & # x201d ; ) expenses decreased $ 94 million , or 11 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.0395171083509922,
+        "Negative": 0.8621020317077637,
+        "Neutral": 0.09838080406188965,
+        "Sentiment": "negative",
+        "MaxScore": 0.8621020317077637
+    },
+    {
+        "Sentence": "as of march 31 , 2023 and december 31 , 2022 , no entity represented 10 % or more of our total receivables balance . supply riskwe are dependent on our suppliers , including single source suppliers , and the inability of these suppliers to deliver necessary components of our products in a timely manner at prices , quality levels and volumes acceptable to us , or our inability to efficiently manage these components from these suppliers , could have a material adverse effect on our business , prospects , financial condition and operating results . operating lease vehiclesthe gross cost of operating lease vehicles as of march 31 , 2023 and december 31 , 2022 was $ 6 . 56 billion and $ 6 . 08 billion , respectively .",
+        "Positive": 0.0129367895424366,
+        "Negative": 0.8613873720169067,
+        "Neutral": 0.12567584216594696,
+        "Sentiment": "negative",
+        "MaxScore": 0.8613873720169067
+    },
+    {
+        "Sentence": "however , we operate in a cyclical industry that is sensitive to political and regulatory uncertainty , including with respect to trade and the environment , all of which can be compounded by inflationary pressures , rising energy prices , increases in interest rates and the liquidity of enterprise customers .",
+        "Positive": 0.024674570187926292,
+        "Negative": 0.8601807951927185,
+        "Neutral": 0.11514465510845184,
+        "Sentiment": "negative",
+        "MaxScore": 0.8601807951927185
+    },
+    {
+        "Sentence": "the differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs .",
+        "Positive": 0.023342421278357506,
+        "Negative": 0.8407336473464966,
+        "Neutral": 0.13592402637004852,
+        "Sentiment": "negative",
+        "MaxScore": 0.8407336473464966
+    },
+    {
+        "Sentence": "the consolidated complaint asserts claims for violations of the federal securities laws and seeks unspecified damages and other relief .",
+        "Positive": 0.029075192287564278,
+        "Negative": 0.8387766480445862,
+        "Neutral": 0.13214817643165588,
+        "Sentiment": "negative",
+        "MaxScore": 0.8387766480445862
+    },
+    {
+        "Sentence": "jp morgan now alleges that it is owed approximately $ 162 million as the value of additional shares that it claims should have been delivered as a result of the adjustment to the strike price in 2018 .",
+        "Positive": 0.026950374245643616,
+        "Negative": 0.8295649290084839,
+        "Neutral": 0.1434846669435501,
+        "Sentiment": "negative",
+        "MaxScore": 0.8295649290084839
+    },
+    {
+        "Sentence": "if an unfavorable ruling or development were to occur , there exists the possibility of a material adverse impact on our business , results of operations , prospects , cash flows , financial position and brand .",
+        "Positive": 0.013400726951658726,
+        "Negative": 0.8295489549636841,
+        "Neutral": 0.1570502668619156,
+        "Sentiment": "negative",
+        "MaxScore": 0.8295489549636841
+    },
+    {
+        "Sentence": "on the other hand , we are likely to see heightened levels of capital expenditures during certain periods depending on the specific pace of our capital - intensive projects and rising material prices and increasing supply chain and labor expenses resulting from changes in global trade conditions and labor availability associated with the covid - 19 pandemic .",
+        "Positive": 0.12256743758916855,
+        "Negative": 0.8256826400756836,
+        "Neutral": 0.05174995958805084,
+        "Sentiment": "negative",
+        "MaxScore": 0.8256826400756836
+    },
+    {
+        "Sentence": "following consolidation , the lawsuit names as defendants the members of tesla & # x2019 ; s board of directors as then constituted and alleges , among other things , that board members breached their fiduciary duties in connection with the acquisition .",
+        "Positive": 0.01496362779289484,
+        "Negative": 0.8082348704338074,
+        "Neutral": 0.17680154740810394,
+        "Sentiment": "negative",
+        "MaxScore": 0.8082348704338074
+    },
+    {
+        "Sentence": "district court for the northern district of california , alleging various claims about the company & # x2019 ; s driver assistance technology systems under state and federal law .",
+        "Positive": 0.02100863680243492,
+        "Negative": 0.8075264096260071,
+        "Neutral": 0.1714649796485901,
+        "Sentiment": "negative",
+        "MaxScore": 0.8075264096260071
+    },
+    {
+        "Sentence": "our rd expenses have decreased as a proportion of total revenues despite expanding product roadmap and technologies .",
+        "Positive": 0.1676194965839386,
+        "Negative": 0.7966508865356445,
+        "Neutral": 0.03572963923215866,
+        "Sentiment": "negative",
+        "MaxScore": 0.7966508865356445
+    },
+    {
+        "Sentence": "both suits assert claims for breach of fiduciary duty , unjust enrichment , and violation of the federal securities laws in connection with alleged race and gender discrimination and sexual harassment .",
+        "Positive": 0.020280463621020317,
+        "Negative": 0.7879914045333862,
+        "Neutral": 0.19172808527946472,
+        "Sentiment": "negative",
+        "MaxScore": 0.7879914045333862
+    },
+    {
+        "Sentence": "the complaint seeks , among other things , monetary damages and rescission or reformation of the stock - based compensation plan .",
+        "Positive": 0.023097174242138863,
+        "Negative": 0.7861255407333374,
+        "Neutral": 0.19077730178833008,
+        "Sentiment": "negative",
+        "MaxScore": 0.7861255407333374
+    },
+    {
+        "Sentence": "other ( expense ) income , net & # 160 ; & # 160 ; & # 160 ; three months ended march 31 , & # 160 ; & # 160 ; change ( dollars in millions ) & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; & # 160 ; $ & # 160 ; & # 160 ; % other ( expense ) income , net & # 160 ; $ ( 48 ) & # 160 ; $ 56 & # 160 ; & # 160 ; $ ( 104 ) & # 160 ; not meaningful & # 160 ; other ( expense ) income , net , changed unfavorably by $ 104 million in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.17386047542095184,
+        "Negative": 0.7747790813446045,
+        "Neutral": 0.05136048421263695,
+        "Sentiment": "negative",
+        "MaxScore": 0.7747790813446045
+    },
+    {
+        "Sentence": "the suit asserts claims for breach of fiduciary duty and unjust enrichment and seeks declaratory and injunctive relief , unspecified damages and other relief .",
+        "Positive": 0.031095266342163086,
+        "Negative": 0.7684441804885864,
+        "Neutral": 0.2004605382680893,
+        "Sentiment": "negative",
+        "MaxScore": 0.7684441804885864
+    },
+    {
+        "Sentence": "litigation and investigations relating to alleged discrimination and harassmenton october 4 , 2021 , in a case captioned diaz v . tesla , a jury in the northern district of california returned a verdict against tesla on claims by a former contingent worker that he was subjected to race discrimination while assigned to work at tesla & # x2019 ; s fremont factory from 2015 - 2016 .",
+        "Positive": 0.05961421877145767,
+        "Negative": 0.750752329826355,
+        "Neutral": 0.18963336944580078,
+        "Sentiment": "negative",
+        "MaxScore": 0.750752329826355
+    },
+    {
+        "Sentence": "24 & # 160 ; cash flow and capital expenditure trends our capital expenditures are typically difficult to project beyond the short - term given the number and breadth of our core projects at any given time , and may further be impacted by uncertainties in future global market conditions .",
+        "Positive": 0.023792728781700134,
+        "Negative": 0.7399477362632751,
+        "Neutral": 0.2362595647573471,
+        "Sentiment": "negative",
+        "MaxScore": 0.7399477362632751
+    },
+    {
+        "Sentence": "capital expenditures amounted to $ 2 . 07 billion during the three months ended march 31 , 2023 , compared to $ 1 . 77 billion during the same period ended march 31 , 2022 .",
+        "Positive": 0.23526953160762787,
+        "Negative": 0.7295655012130737,
+        "Neutral": 0.03516498953104019,
+        "Sentiment": "negative",
+        "MaxScore": 0.7295655012130737
+    },
+    {
+        "Sentence": "further , sales of vehicles in the automotive industry also tend to be cyclical in many markets , which may expose us to increased volatility as we expand and adjust our operations .",
+        "Positive": 0.07247760146856308,
+        "Negative": 0.6925680637359619,
+        "Neutral": 0.2349543273448944,
+        "Sentiment": "negative",
+        "MaxScore": 0.6925680637359619
+    },
+    {
+        "Sentence": "they include claims for violations of the federal securities laws and breach of fiduciary duties by tesla & # x2019 ; s board of directors .",
+        "Positive": 0.018071893602609634,
+        "Negative": 0.6580418348312378,
+        "Neutral": 0.3238861858844757,
+        "Sentiment": "negative",
+        "MaxScore": 0.6580418348312378
+    },
+    {
+        "Sentence": "on november 18 , 2021 , the remaining defendants ( a ) moved for partial summary judgment , ( b ) opposed plaintiff & # x2019 ; s summary judgment motion and ( c ) opposed the plaintiff & # x2019 ; s motion to amend his complaint .",
+        "Positive": 0.050842322409152985,
+        "Negative": 0.6474583148956299,
+        "Neutral": 0.30169937014579773,
+        "Sentiment": "negative",
+        "MaxScore": 0.6474583148956299
+    },
+    {
+        "Sentence": "crd & # x2019 ; s amended complaint seeks monetary damages and injunctive relief .",
+        "Positive": 0.06131547689437866,
+        "Negative": 0.6438170075416565,
+        "Neutral": 0.29486751556396484,
+        "Sentiment": "negative",
+        "MaxScore": 0.6438170075416565
+    },
+    {
+        "Sentence": "jp morgan filed a motion for judgment on the pleadings , which tesla opposed , and that motion is currently pending before the court .",
+        "Positive": 0.032844796776771545,
+        "Negative": 0.6322053074836731,
+        "Neutral": 0.33494988083839417,
+        "Sentiment": "negative",
+        "MaxScore": 0.6322053074836731
+    },
+    {
+        "Sentence": "as of march 31 , 2023 , we were in material compliance with all financial debt covenants . 16 & # 160 ; 2024 notesduring the first quarter of 2023 , the closing price of our common stock continued to exceed 130 % of the applicable conversion price of our 2024 notes on at least 20 of the last 30 consecutive trading days of the quarter , causing the 2024 notes to be convertible by their holders during the second quarter of 2023 .",
+        "Positive": 0.05292610824108124,
+        "Negative": 0.6225734353065491,
+        "Neutral": 0.3245004117488861,
+        "Sentiment": "negative",
+        "MaxScore": 0.6225734353065491
+    },
+    {
+        "Sentence": "the complaint alleges that the defendants made material misrepresentations and omissions about the company & # x2019 ; s autopilot and fsdc technologies and seeks money damages and other relief on behalf of persons who purchased tesla stock between february 19 , 2019 and february 17 , 2023 .",
+        "Positive": 0.026358453556895256,
+        "Negative": 0.6186417937278748,
+        "Neutral": 0.35499975085258484,
+        "Sentiment": "negative",
+        "MaxScore": 0.6186417937278748
+    },
+    {
+        "Sentence": "following the motion , plaintiff agreed to voluntarily dismiss the claims against kimbal musk and steve jurvetson .",
+        "Positive": 0.10004483163356781,
+        "Negative": 0.6148844361305237,
+        "Neutral": 0.2850707471370697,
+        "Sentiment": "negative",
+        "MaxScore": 0.6148844361305237
+    },
+    {
+        "Sentence": "several similar complaints have also been filed in the same court .",
+        "Positive": 0.04238089546561241,
+        "Negative": 0.6085953712463379,
+        "Neutral": 0.3490237891674042,
+        "Sentiment": "negative",
+        "MaxScore": 0.6085953712463379
+    },
+    {
+        "Sentence": "23 & # 160 ; however , these plans are subject to uncertainties inherent in establishing and ramping manufacturing operations , which may be exacerbated by the new product and manufacturing technologies we are introducing , the number of concurrent international projects , any industry - wide component constraints , labor shortages and any future impact from events outside of our control such as the covid - 19 pandemic .",
+        "Positive": 0.06888231635093689,
+        "Negative": 0.6038792133331299,
+        "Neutral": 0.3272384703159332,
+        "Sentiment": "negative",
+        "MaxScore": 0.6038792133331299
+    },
+    {
+        "Sentence": "this was driven by the changes in automotive sales revenue and cost of automotive sales revenue , as well as a decrease in regulatory credits revenue , as discussed earlier .",
+        "Positive": 0.1598120778799057,
+        "Negative": 0.5980508923530579,
+        "Neutral": 0.24213701486587524,
+        "Sentiment": "negative",
+        "MaxScore": 0.5980508923530579
+    },
+    {
+        "Sentence": "on june 16 , 2022 , two tesla stockholders filed separate derivative actions in the u . s .",
+        "Positive": 0.028309553861618042,
+        "Negative": 0.5926794409751892,
+        "Neutral": 0.37901097536087036,
+        "Sentiment": "negative",
+        "MaxScore": 0.5926794409751892
+    },
+    {
+        "Sentence": "however , due to contractual terms , variability in the precise growth curves of our development and production ramps , and opportunities to renegotiate pricing , we generally do not have binding and enforceable purchase orders under such contracts beyond the short - term , and the timing and magnitude of purchase orders beyond such period is difficult to accurately project .",
+        "Positive": 0.023106059059500694,
+        "Negative": 0.5726883411407471,
+        "Neutral": 0.40420567989349365,
+        "Sentiment": "negative",
+        "MaxScore": 0.5726883411407471
+    },
+    {
+        "Sentence": "we are also committed to reducing the percentage of vehicles delivered in the third month of each quarter , which will help to reduce the cost per vehicle .",
+        "Positive": 0.18522995710372925,
+        "Negative": 0.5685121417045593,
+        "Neutral": 0.24625785648822784,
+        "Sentiment": "negative",
+        "MaxScore": 0.5685121417045593
+    },
+    {
+        "Sentence": "these complaints allege that tesla violates federal antitrust and warranty laws through its repair , service , and maintenance practices and seeks , among other relief , damages for persons who paid tesla for repairs services or tesla compatible replacement parts from march 2019 to march 2023 . the company intends to vigorously defend itself in these matters ; however , we cannot predict the outcome or impact .",
+        "Positive": 0.04001312702894211,
+        "Negative": 0.5623424649238586,
+        "Neutral": 0.39764440059661865,
+        "Sentiment": "negative",
+        "MaxScore": 0.5623424649238586
+    },
+    {
+        "Sentence": "post - trial briefing and argument are now complete . litigation related to directors & # x2019 ; compensationon june 17 , 2020 , a purported tesla stockholder filed a derivative action in the delaware court of chancery , purportedly on behalf of tesla , against certain of tesla & # x2019 ; s current and former directors regarding compensation awards granted to tesla & # x2019 ; s directors , other than elon musk , between 2017 and 2020 .",
+        "Positive": 0.03647920861840248,
+        "Negative": 0.5622360706329346,
+        "Neutral": 0.40128469467163086,
+        "Sentiment": "negative",
+        "MaxScore": 0.5622360706329346
+    },
+    {
+        "Sentence": "government securities & # 160 ; & # 160 ; 897 & # 160 ; & # 160 ; & # 160 ; & # x2014 ; & # 160 ; & # 160 ; & # 160 ; ( 3 ) & # 160 ; & # 160 ; 894 & # 160 ; & # 160 ; & # 160 ; & # x2014 ; & # 160 ; & # 160 ; & # 160 ; 894 & # 160 ; corporate debt securities & # 160 ; & # 160 ; 907 & # 160 ; & # 160 ; & # 160 ; & # x2014 ; & # 160 ; & # 160 ; & # 160 ; ( 22 ) & # 160 ; & # 160 ; 885 & # 160 ; & # 160 ; & # 160 ; & # x2014 ; & # 160 ; & # 160 ; & # 160 ; 885 & # 160 ; certificates of deposit and time deposits & # 160 ; & # 160 ; 4 , 252 & # 160 ; & # 160 ; & # 160 ; 1 & # 160 ; & # 160 ; & # 160 ; & # x2014 ; & # 160 ; & # 160 ; & # 160 ; 4 , 253 & # 160 ; & # 160 ; & # 160 ; 100 & # 160 ; & # 160 ; & # 160 ; 4 , 153 & # 160 ; total cash , cash equivalents and short - term investments & # 160 ; $ 22 , 209 & # 160 ; & # 160 ; $ 1 & # 160 ; & # 160 ; $ ( 25 ) & # 160 ; $ 22 , 185 & # 160 ; & # 160 ; $ 16 , 253 & # 160 ; & # 160 ; $ 5 , 932 & # 160 ; & # 160 ; we record gross realized gains , losses and credit losses as a component of other ( expense ) income , net in the consolidated statements of operations .",
+        "Positive": 0.07701117545366287,
+        "Negative": 0.5580554604530334,
+        "Neutral": 0.3649333715438843,
+        "Sentiment": "negative",
+        "MaxScore": 0.5580554604530334
+    },
+    {
+        "Sentence": "trial is currently set for november 27 , 2023 , to december 1 , 2023 . litigation relating to potential going private transactionbetween august 10 , 2018 and september 6 , 2018 , nine purported stockholder class actions were filed against tesla and elon musk in connection with mr .",
+        "Positive": 0.03158918395638466,
+        "Negative": 0.5448223352432251,
+        "Neutral": 0.42358845472335815,
+        "Sentiment": "negative",
+        "MaxScore": 0.5448223352432251
+    },
+    {
+        "Sentence": "on october 1 , 2021 , defendants kimbal musk and steve jurvetson moved for summary judgment as to the claims against them .",
+        "Positive": 0.04580594599246979,
+        "Negative": 0.5446346402168274,
+        "Neutral": 0.40955936908721924,
+        "Sentiment": "negative",
+        "MaxScore": 0.5446346402168274
+    },
+    {
+        "Sentence": "as of march 31 , 2023 , we expect to meet the requirements under these arrangements based on our current and anticipated level of operations . legal proceedingslitigation relating to the solarcity acquisitionbetween september 1 , 2016 and october 5 , 2016 , seven lawsuits were filed in the delaware court of chancery by purported stockholders of tesla challenging our acquisition of solarcity corporation ( & # x201c ; solarcity & # x201d ; ) .",
+        "Positive": 0.03840307891368866,
+        "Negative": 0.4926585257053375,
+        "Neutral": 0.4689383804798126,
+        "Sentiment": "negative",
+        "MaxScore": 0.4926585257053375
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Sentence": "the decrease was primarily attributable to lower operating profit of $ 65 million for sikorsky helicopter programs due to lower production volume , net favorable profit adjustments , and contract mix on the black hawk program and unfavorable profit adjustments ( ch - 53k ) .",
+        "Positive": 0.00920948851853609,
+        "Negative": 0.9740577936172485,
+        "Neutral": 0.01673280820250511,
+        "Sentiment": "negative",
+        "MaxScore": 0.9740577936172485
+    },
+    {
+        "Sentence": "the decrease was primarily attributable to lower net sales of $ 335 million for the f - 35 program due to lower volume on production contracts .",
+        "Positive": 0.01156050618737936,
+        "Negative": 0.971623420715332,
+        "Neutral": 0.016816044226288795,
+        "Sentiment": "negative",
+        "MaxScore": 0.971623420715332
+    },
+    {
+        "Sentence": "the decrease was primarily attributable to lower operating profit of $ 85 million for sensors and global sustainment programs due to the favorable profit adjustment on an international program in the first quarter of 2022 as described above .",
+        "Positive": 0.011264962144196033,
+        "Negative": 0.9712495803833008,
+        "Neutral": 0.017485342919826508,
+        "Sentiment": "negative",
+        "MaxScore": 0.9712495803833008
+    },
+    {
+        "Sentence": "the program has experienced performance issues , including delays in the final aircraft deliveries from the original contract requirement , and the royal canadian air force & # 8217 ; s flight hours have been less than originally anticipated , which has impacted program revenues and the recovery of our costs under this program .",
+        "Positive": 0.009582605212926865,
+        "Negative": 0.9706063270568848,
+        "Neutral": 0.019811052829027176,
+        "Sentiment": "negative",
+        "MaxScore": 0.9706063270568848
+    },
+    {
+        "Sentence": "these decreases were partially offset by higher net sales of $ 70 million for integrated air and missile defense programs due to the impact of higher net favorable profit adjustments ( patriot advanced capability - 3 ( pac - 3 ) ) . mfc & # 8217 ; s operating profit in the quarter ended march 26 , 2023 decreased $ 8 & # 160 ; million , or 2 % , compared to the same period in 2022 .",
+        "Positive": 0.015591293573379517,
+        "Negative": 0.9686385989189148,
+        "Neutral": 0.015770038589835167,
+        "Sentiment": "negative",
+        "MaxScore": 0.9686385989189148
+    },
+    {
+        "Sentence": "deliveries in the quarter were impacted by an issue with the government furnished equipment ( gfe ) engine that occurred at the end of 2022 and resulted in a pause in flight operations , which prevented aircraft deliveries until flight operations and deliveries resumed in march 2023 .",
+        "Positive": 0.00856351014226675,
+        "Negative": 0.9686235189437866,
+        "Neutral": 0.022812942042946815,
+        "Sentiment": "negative",
+        "MaxScore": 0.9686235189437866
+    },
+    {
+        "Sentence": "government may not be able to fulfill its funding obligations and there could be significant disruption to all discretionary programs and wider financial and economic repercussions .",
+        "Positive": 0.009462454356253147,
+        "Negative": 0.9677215218544006,
+        "Neutral": 0.02281607687473297,
+        "Sentiment": "negative",
+        "MaxScore": 0.9677215218544006
+    },
+    {
+        "Sentence": "there were no significant credit or impairment losses related to our contract assets during the quarters ended march & # 160 ; 26 , 2023 and march & # 160 ; 27 , 2022 . contract liabilities decreased $ 152 & # 160 ; million during the quarter ended march & # 160 ; 26 , 2023 , primarily due to revenue recognized in excess of payments received on these performance obligations .",
+        "Positive": 0.01169833354651928,
+        "Negative": 0.9667491316795349,
+        "Neutral": 0.02155247889459133,
+        "Sentiment": "negative",
+        "MaxScore": 0.9667491316795349
+    },
+    {
+        "Sentence": "these decreases were partially offset by higher net sales of $ 85 million for integrated warfare systems and sensors ( iwss ) programs due to higher volume ( aegis and tpy - 4 programs ) . rms & # 8217 ; operating profit in the quarter ended march 26 , 2023 decreased $ 56 & # 160 ; million , or 14 % , compared to the same period in 2022 .",
+        "Positive": 0.02050095982849598,
+        "Negative": 0.9665349721908569,
+        "Neutral": 0.012964131310582161,
+        "Sentiment": "negative",
+        "MaxScore": 0.9665349721908569
+    },
+    {
+        "Sentence": "we periodically experience performance issues and record losses for certain programs .",
+        "Positive": 0.013226060196757317,
+        "Negative": 0.965153694152832,
+        "Neutral": 0.021620269864797592,
+        "Sentiment": "negative",
+        "MaxScore": 0.965153694152832
+    },
+    {
+        "Sentence": "future performance issues or changes in our estimates due to revised contract scope or customer requirements may affect our ability to recover our costs and may result in a loss that could be material to our operating results .",
+        "Positive": 0.009646830148994923,
+        "Negative": 0.9651224613189697,
+        "Neutral": 0.025230737403035164,
+        "Sentiment": "negative",
+        "MaxScore": 0.9651224613189697
+    },
+    {
+        "Sentence": "the decrease was primarily attributable to lower net sales of $ 75 million for sikorsky helicopter programs due to lower production volume ( black hawk ) ; and lower net sales of $ 60 million for various c6isr ( command , control , communications , computers , cyber , combat systems , intelligence , surveillance , and reconnaissance ) programs due to lower volume .",
+        "Positive": 0.014411794021725655,
+        "Negative": 0.9648789167404175,
+        "Neutral": 0.020709389820694923,
+        "Sentiment": "negative",
+        "MaxScore": 0.9648789167404175
+    },
+    {
+        "Sentence": "conversely , conditions on a particular contract may deteriorate , resulting in an increase in the estimated total costs to fulfill the performance obligations and a reduction in the profit booking rate and are typically referred to as unfavorable profit adjustments .",
+        "Positive": 0.011734101921319962,
+        "Negative": 0.9647576212882996,
+        "Neutral": 0.023508217185735703,
+        "Sentiment": "negative",
+        "MaxScore": 0.9647576212882996
+    },
+    {
+        "Sentence": "conversely , conditions on a particular contract may deteriorate , resulting in an increase in the estimated total costs to fulfill the performance obligations and a reduction in the profit booking rate and are typically referred to as unfavorable profit adjustments .",
+        "Positive": 0.011734101921319962,
+        "Negative": 0.9647576212882996,
+        "Neutral": 0.023508217185735703,
+        "Sentiment": "negative",
+        "MaxScore": 0.9647576212882996
+    },
+    {
+        "Sentence": "the decrease was primarily attributable to lower net sales of $ 85 million for sensors and global sustainment programs as net sales for the first quarter of 2022 reflect the impact of a favorable profit adjustment on an international program as a result of a requirements modification that did not recur in the first quarter of 2023 ; and lower net sales of $ 60 million for tactical and strike missile programs due to lower volume ( guided multiple launch rocket systems ( gmlrs ) ) .",
+        "Positive": 0.015494159422814846,
+        "Negative": 0.9639939665794373,
+        "Neutral": 0.020511837676167488,
+        "Sentiment": "negative",
+        "MaxScore": 0.9639939665794373
+    },
+    {
+        "Sentence": "any such losses are recorded in the period in which the loss is evident . we have experienced performance issues on a classified fixed - price incentive fee contract that involves highly complex design and systems integration at our aeronautics business segment and have periodically recognized reach - forward losses .",
+        "Positive": 0.015835056081414223,
+        "Negative": 0.9634703993797302,
+        "Neutral": 0.020694606006145477,
+        "Sentiment": "negative",
+        "MaxScore": 0.9634703993797302
+    },
+    {
+        "Sentence": "total net profit booking rate adjustments were approximately $ 15 million lower in the first quarter of 2023 compared to the same period in 2022 . missiles and fire controlsummary operating results for our mfc business segment were as follows ( in millions ) : & # 160 ; quarters endedmarch 26 , 2023march 27 , 2022net sales $ 2 , 388 & # 160 ; $ 2 , 452 & # 160 ; operating profit377 & # 160 ; 385 & # 160 ; operating margin15 . 8 & # 160 ; % 15 . 7 & # 160 ; % mfc & # 8217 ; s net sales in the quarter ended march 26 , 2023 decreased $ 64 & # 160 ; million , or 3 % , compared to the same period in 2022 .",
+        "Positive": 0.01361065823584795,
+        "Negative": 0.9633921384811401,
+        "Neutral": 0.022997215390205383,
+        "Sentiment": "negative",
+        "MaxScore": 0.9633921384811401
+    },
+    {
+        "Sentence": "basic and diluted weighted average common shares outstanding decreased in 2023 compared to 2022 due to share repurchases . & # 160 ; see & # 8220 ; note 9 & # 160 ; - & # 160 ; stockholders & # 8217 ; equity & # 8221 ; for more information .",
+        "Positive": 0.009652459062635899,
+        "Negative": 0.9628270864486694,
+        "Neutral": 0.027520444244146347,
+        "Sentiment": "negative",
+        "MaxScore": 0.9628270864486694
+    },
+    {
+        "Sentence": "any such losses could be material to our financial results . 31table of contentsaeronauticssummary operating results for our aeronautics business segment were as follows ( in millions ) : & # 160 ; quarters endedmarch 26 , 2023march 27 , 2022net sales $ 6 , 269 & # 160 ; $ 6 , 401 & # 160 ; operating profit675 & # 160 ; 679 & # 160 ; operating margin10 . 8 & # 160 ; % 10 . 6 & # 160 ; % aeronautics & # 8217 ; net sales in the quarter ended march 26 , 2023 decreased $ 132 million , or 2 % , compared to the same period in 2022 .",
+        "Positive": 0.014978189952671528,
+        "Negative": 0.9626782536506653,
+        "Neutral": 0.022343553602695465,
+        "Sentiment": "negative",
+        "MaxScore": 0.9626782536506653
+    },
+    {
+        "Sentence": "other expense , net during the quarter ended march & # 160 ; 26 , 2023 included lower earnings generated by our equity method investment in ula due to lower launch volume and an increase in new product development costs . interest expenseinterest expense during the quarter ended march & # 160 ; 26 , 2023 was $ 202 & # 160 ; million , compared to $ 135 & # 160 ; million during the quarter ended march & # 160 ; 27 , 2022 .",
+        "Positive": 0.01437379140406847,
+        "Negative": 0.9626713991165161,
+        "Neutral": 0.02295469120144844,
+        "Sentiment": "negative",
+        "MaxScore": 0.9626713991165161
+    }
+]

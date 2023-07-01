@@ -1,0 +1,162 @@
+[
+    {
+        "Sentence": "we believe the percentage of duplicate accounts is meaningfully higher in developing markets such as the philippines and vietnam , as compared to more developed markets .",
+        "Positive": 0.9596160054206848,
+        "Negative": 0.020433949306607246,
+        "Neutral": 0.019950008019804955,
+        "Sentiment": "positive",
+        "MaxScore": 0.9596160054206848
+    },
+    {
+        "Sentence": "we believe the percentage of duplicate accounts is meaningfully higher in developing markets such as the philippines and vietnam , as compared to more developed markets .",
+        "Positive": 0.9596160054206848,
+        "Negative": 0.020433949306607246,
+        "Neutral": 0.019950008019804955,
+        "Sentiment": "positive",
+        "MaxScore": 0.9596160054206848
+    },
+    {
+        "Sentence": "ad impressions grew in all regions during the three months ended march & # 160 ; 31 , 2023 as compared to the same period in 2022 , primarily driven by an increase in ads delivered in asia - pacific and rest of world .",
+        "Positive": 0.9586997032165527,
+        "Negative": 0.018972883000969887,
+        "Neutral": 0.022327475249767303,
+        "Sentiment": "positive",
+        "MaxScore": 0.9586997032165527
+    },
+    {
+        "Sentence": "our total revenue for the first quarter of 2023 was $ 28 . 65 & # 160 ; billion , an increase of 3 % compared to the first quarter of 2022 , due to an increase in advertising revenue .",
+        "Positive": 0.9579103589057922,
+        "Negative": 0.01898067630827427,
+        "Neutral": 0.023109031841158867,
+        "Sentiment": "positive",
+        "MaxScore": 0.9579103589057922
+    },
+    {
+        "Sentence": "during the three months ended march & # 160 ; 31 , 2023 , the number of ads delivered increased by 26 % year - over - year as compared with an increase of 15 % in the same period in 2022 .",
+        "Positive": 0.9568476676940918,
+        "Negative": 0.018092162907123566,
+        "Neutral": 0.025060158222913742,
+        "Sentiment": "positive",
+        "MaxScore": 0.9568476676940918
+    },
+    {
+        "Sentence": "the increase was driven by advertising revenue . advertisingadvertising revenue in the three months ended march & # 160 ; 31 , 2023 increased $ 1 . 10 & # 160 ; billion , or 4 % , compared to the same period in 2022 due to an increase in the number of ads delivered , partially offset by a decrease in the average price per ad .",
+        "Positive": 0.9568210244178772,
+        "Negative": 0.025816531851887703,
+        "Neutral": 0.017362352460622787,
+        "Sentiment": "positive",
+        "MaxScore": 0.9568210244178772
+    },
+    {
+        "Sentence": "revenue on a constant currency basis was $ 29 . 46 & # 160 ; billion for the first quarter of 2023 , an increase of 6 % compared to the first quarter of 2022 .",
+        "Positive": 0.9543114900588989,
+        "Negative": 0.01715046726167202,
+        "Neutral": 0.028538024052977562,
+        "Sentiment": "positive",
+        "MaxScore": 0.9543114900588989
+    },
+    {
+        "Sentence": "these were partially offset by an increase in advertising revenue .",
+        "Positive": 0.9542557001113892,
+        "Negative": 0.018966851755976677,
+        "Neutral": 0.026777401566505432,
+        "Sentiment": "positive",
+        "MaxScore": 0.9542557001113892
+    },
+    {
+        "Sentence": "we believe our ongoing improvements to ad targeting and measurement are continuing to drive improved results for advertisers .",
+        "Positive": 0.9540399312973022,
+        "Negative": 0.01575927808880806,
+        "Neutral": 0.030200805515050888,
+        "Sentiment": "positive",
+        "MaxScore": 0.9540399312973022
+    },
+    {
+        "Sentence": "40table of contentsworldwide daus increased 4 % to 2 . 04 & # 160 ; billion on average during march 2023 from 1 . 96 & # 160 ; billion during march 2022 .",
+        "Positive": 0.9533758163452148,
+        "Negative": 0.023094171658158302,
+        "Neutral": 0.023529985919594765,
+        "Sentiment": "positive",
+        "MaxScore": 0.9533758163452148
+    },
+    {
+        "Sentence": "the increase in cost and expenses was partially offset by an increase in advertising revenue .",
+        "Positive": 0.952031135559082,
+        "Negative": 0.020198022946715355,
+        "Neutral": 0.02777092345058918,
+        "Sentiment": "positive",
+        "MaxScore": 0.952031135559082
+    },
+    {
+        "Sentence": "over this period , arpu increased by 7 % in rest of world and by 1 % in europe , united states canada , and asia - pacific .",
+        "Positive": 0.9515237808227539,
+        "Negative": 0.01198405772447586,
+        "Neutral": 0.03649217635393143,
+        "Sentiment": "positive",
+        "MaxScore": 0.9515237808227539
+    },
+    {
+        "Sentence": "as of march & # 160 ; 31 , 2023 , we had 2 . 99 & # 160 ; billion maus , an increase of 2 % from march 31 , 2022 .",
+        "Positive": 0.9476787447929382,
+        "Negative": 0.017532601952552795,
+        "Neutral": 0.03478867560625076,
+        "Sentiment": "positive",
+        "MaxScore": 0.9476787447929382
+    },
+    {
+        "Sentence": "this allocation differs from our revenue disaggregated by geography disclosure in note & # 160 ; 2 & # 8212 ; revenue in our condensed consolidated financial statements included in part & # 160 ; i , item & # 160 ; 1 , \" financial statements \" where revenue is geographically apportioned based on the addresses of our customers . during the first quarter of 2023 , worldwide arpu was $ 9 . 62 , an increase of 1 % from the first quarter of 2022 .",
+        "Positive": 0.9442592859268188,
+        "Negative": 0.02266346476972103,
+        "Neutral": 0.033077139407396317,
+        "Sentiment": "positive",
+        "MaxScore": 0.9442592859268188
+    },
+    {
+        "Sentence": "in the third quarter of 2022 , we updated our family metrics calculations to maintain calibration of our models against recent user survey data , and we estimate such update contributed an aggregate of approximately 30 & # 160 ; million dap to our reported worldwide dap in september 2022 . worldwide dap increased 5 % to 3 . 02 & # 160 ; billion on average during march 2023 from 2 . 87 & # 160 ; billion during march 2022 . 37table of contents & # 8226 ; monthly active people ( map ) .",
+        "Positive": 0.9439864158630371,
+        "Negative": 0.021302614361047745,
+        "Neutral": 0.034710876643657684,
+        "Sentiment": "positive",
+        "MaxScore": 0.9439864158630371
+    },
+    {
+        "Sentence": "in the third quarter of 2022 , we updated our family metrics calculations to maintain calibration of our models against recent user survey data , and we estimate such update contributed an aggregate of approximately 40 & # 160 ; million map to our reported worldwide map in september 2022 . as of march & # 160 ; 31 , 2023 , we had 3 . 81 & # 160 ; billion map , an increase of 5 % from 3 . 64 & # 160 ; billion as of march 31 , 2022 . 38table of contents & # 8226 ; average revenue per person ( arpp ) .",
+        "Positive": 0.9398919343948364,
+        "Negative": 0.014520261436700821,
+        "Neutral": 0.04558779299259186,
+        "Sentiment": "positive",
+        "MaxScore": 0.9398919343948364
+    },
+    {
+        "Sentence": "the increase in ads delivered during the three months ended march & # 160 ; 31 , 2023 was driven by increases in the number and frequency of ads displayed across our products and an increase in users .",
+        "Positive": 0.9391156435012817,
+        "Negative": 0.01485171914100647,
+        "Neutral": 0.04603269696235657,
+        "Sentiment": "positive",
+        "MaxScore": 0.9391156435012817
+    },
+    {
+        "Sentence": "the increase was primarily due to increases in restructuring charges , related to severance and other personnel costs and facilities consolidation , as well as higher legal - related costs .",
+        "Positive": 0.9158639907836914,
+        "Negative": 0.06148236617445946,
+        "Neutral": 0.022653618827462196,
+        "Sentiment": "positive",
+        "MaxScore": 0.9158639907836914
+    },
+    {
+        "Sentence": "in particular , we expect our ai initiatives will require increased investment in infrastructure and headcount .",
+        "Positive": 0.9133641123771667,
+        "Negative": 0.009401360526680946,
+        "Neutral": 0.07723454385995865,
+        "Sentiment": "positive",
+        "MaxScore": 0.9133641123771667
+    },
+    {
+        "Sentence": "in addition , we have invested , and expect to continue to invest , significant resources in growing our messaging products to support increasing usage of such products .",
+        "Positive": 0.9101475477218628,
+        "Negative": 0.008750787936151028,
+        "Neutral": 0.08110159635543823,
+        "Sentiment": "positive",
+        "MaxScore": 0.9101475477218628
+    }
+]

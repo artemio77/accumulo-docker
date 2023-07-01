@@ -1,0 +1,586 @@
+[
+    {
+        "Sentence": "energy generation and storage segment cost of energy generation and storage revenue increased $ 673 million , or 98 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 , primarily due to increase in deployments of megapack , increase in solar cash and loan deployments at a higher average cost due to increased component costs , as well as increase in deployments of powerwall .",
+        "Positive": 0.9580140709877014,
+        "Negative": 0.020111842080950737,
+        "Neutral": 0.021874122321605682,
+        "Sentiment": "positive",
+        "MaxScore": 0.9580140709877014
+    },
+    {
+        "Sentence": "energy generation and storage segment energy generation and storage revenue increased $ 913 million , or 148 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 , primarily due to an increase in deployments of megapack , higher solar cash and loan deployments at a higher average selling price , as well as increase in deployments of powerwall at a higher average selling price , year over year .",
+        "Positive": 0.9575788378715515,
+        "Negative": 0.01790545880794525,
+        "Neutral": 0.024515721946954727,
+        "Sentiment": "positive",
+        "MaxScore": 0.9575788378715515
+    },
+    {
+        "Sentence": "we will continue to adjust accordingly to such developments , and we believe our ongoing cost reduction , including improved production innovation and efficiency at our newest factories and lower logistics costs , and focus on operating leverage will continue to benefit us in relation to our competitors .",
+        "Positive": 0.9550893306732178,
+        "Negative": 0.01355662476271391,
+        "Neutral": 0.03135395422577858,
+        "Sentiment": "positive",
+        "MaxScore": 0.9550893306732178
+    },
+    {
+        "Sentence": "our business has recently been consistently generating cash flow from operations in excess of our level of capital spend , and with better working capital management resulting in shorter days sales outstanding than days payable outstanding , our sales growth is also facilitating positive cash generation .",
+        "Positive": 0.9544399380683899,
+        "Negative": 0.017857525497674942,
+        "Neutral": 0.02770254574716091,
+        "Sentiment": "positive",
+        "MaxScore": 0.9544399380683899
+    },
+    {
+        "Sentence": "during the three months ended march 31 , 2023 , we recognized total revenues of $ 23 . 33 billion , representing an increase of $ 4 . 57 billion , compared to the prior year .",
+        "Positive": 0.9542108774185181,
+        "Negative": 0.02246342971920967,
+        "Neutral": 0.023325743153691292,
+        "Sentiment": "positive",
+        "MaxScore": 0.9542108774185181
+    },
+    {
+        "Sentence": "cost of services and other revenue increased $ 416 million , or 32 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.9532654285430908,
+        "Negative": 0.02099722996354103,
+        "Neutral": 0.025737343356013298,
+        "Sentiment": "positive",
+        "MaxScore": 0.9532654285430908
+    },
+    {
+        "Sentence": "services and other revenue increased $ 558 million , or 44 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.9532410502433777,
+        "Negative": 0.019792817533016205,
+        "Neutral": 0.026966117322444916,
+        "Sentiment": "positive",
+        "MaxScore": 0.9532410502433777
+    },
+    {
+        "Sentence": "this was partially offset by an increase in cost of revenue from the growing portfolio of our direct operating lease program .",
+        "Positive": 0.9507681131362915,
+        "Negative": 0.021648921072483063,
+        "Neutral": 0.027582913637161255,
+        "Sentiment": "positive",
+        "MaxScore": 0.9507681131362915
+    },
+    {
+        "Sentence": "liquidity and capital resources we expect to continue to generate net positive operating cash flow as we have done in the last four fiscal years .",
+        "Positive": 0.9502849578857422,
+        "Negative": 0.018721429631114006,
+        "Neutral": 0.03099358081817627,
+        "Sentiment": "positive",
+        "MaxScore": 0.9502849578857422
+    },
+    {
+        "Sentence": "this was partially offset by an increase from the growing portfolio of our direct operating lease program .",
+        "Positive": 0.9493947625160217,
+        "Negative": 0.016856683418154716,
+        "Neutral": 0.0337485633790493,
+        "Sentiment": "positive",
+        "MaxScore": 0.9493947625160217
+    },
+    {
+        "Sentence": "we continue to focus on improving our profitability through production and operational efficiencies .",
+        "Positive": 0.9491821527481079,
+        "Negative": 0.012664158828556538,
+        "Neutral": 0.038153745234012604,
+        "Sentiment": "positive",
+        "MaxScore": 0.9491821527481079
+    },
+    {
+        "Sentence": "we ended the first quarter of 2023 with $ 22 . 40 billion in cash and cash equivalents and investments , representing an increase of $ 217 million from the end of 2022 .",
+        "Positive": 0.9482433199882507,
+        "Negative": 0.024961937218904495,
+        "Neutral": 0.026794709265232086,
+        "Sentiment": "positive",
+        "MaxScore": 0.9482433199882507
+    },
+    {
+        "Sentence": "for powerwall , better availability and growing grid stability concerns drive higher customer interest .",
+        "Positive": 0.9480120539665222,
+        "Negative": 0.014417003840208054,
+        "Neutral": 0.037570878863334656,
+        "Sentiment": "positive",
+        "MaxScore": 0.9480120539665222
+    },
+    {
+        "Sentence": "the change is primarily due to an increase in used vehicle cost of revenue driven by increases in volume offset by a decrease in costs of used tesla and non - tesla vehicle sales , an increase in non - warranty maintenance service cost of revenue , and an increase in costs of paid supercharging , insurance services and retail merchandise .",
+        "Positive": 0.9448501467704773,
+        "Negative": 0.021128658205270767,
+        "Neutral": 0.03402126953005791,
+        "Sentiment": "positive",
+        "MaxScore": 0.9448501467704773
+    },
+    {
+        "Sentence": "we continue to ramp production , build new manufacturing capacity and expand our operations to enable increased deliveries and deployments of our products and further revenue growth .",
+        "Positive": 0.9447152018547058,
+        "Negative": 0.012314988300204277,
+        "Neutral": 0.042969781905412674,
+        "Sentiment": "positive",
+        "MaxScore": 0.9447152018547058
+    },
+    {
+        "Sentence": "& # 160 ; as our production increases , we must work constantly to similarly increase vehicle delivery capability so that it does not become a bottleneck on our total deliveries .",
+        "Positive": 0.9424371719360352,
+        "Negative": 0.01551869511604309,
+        "Neutral": 0.04204420745372772,
+        "Sentiment": "positive",
+        "MaxScore": 0.9424371719360352
+    },
+    {
+        "Sentence": "gross margin for energy generation and storage improved from - 11 . 7 % to 11 . 0 % in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.9420841336250305,
+        "Negative": 0.042460281401872635,
+        "Neutral": 0.015455629676580429,
+        "Sentiment": "positive",
+        "MaxScore": 0.9420841336250305
+    },
+    {
+        "Sentence": "in addition , we continue to seek to improve our installation capabilities and price efficiencies for solar roof .",
+        "Positive": 0.9409672021865845,
+        "Negative": 0.010339895263314247,
+        "Neutral": 0.04869288206100464,
+        "Sentiment": "positive",
+        "MaxScore": 0.9409672021865845
+    },
+    {
+        "Sentence": "overall , we expect our ability to be self - funding to continue as long as macroeconomic factors support current trends in our sales .",
+        "Positive": 0.93576580286026,
+        "Negative": 0.013253943994641304,
+        "Neutral": 0.05098024010658264,
+        "Sentiment": "positive",
+        "MaxScore": 0.93576580286026
+    },
+    {
+        "Sentence": "moreover , as additional competitors enter the marketplace and help bring the world closer to sustainable transportation , we will have to adjust and continue to execute well to maintain our momentum .",
+        "Positive": 0.9337648153305054,
+        "Negative": 0.013016288168728352,
+        "Neutral": 0.05321885272860527,
+        "Sentiment": "positive",
+        "MaxScore": 0.9337648153305054
+    },
+    {
+        "Sentence": "we continue to increase the production of our energy storage products to meet high levels of demand , including the announcement of a new megafactory in shanghai .",
+        "Positive": 0.9307089447975159,
+        "Negative": 0.010217919014394283,
+        "Neutral": 0.059073127806186676,
+        "Sentiment": "positive",
+        "MaxScore": 0.9307089447975159
+    },
+    {
+        "Sentence": "this increase was primarily due to the increase in volume as well as the regional mix of the credits sold .",
+        "Positive": 0.9303913116455078,
+        "Negative": 0.012867561541497707,
+        "Neutral": 0.0567411370575428,
+        "Sentiment": "positive",
+        "MaxScore": 0.9303913116455078
+    },
+    {
+        "Sentence": "this was driven by an increase in our short - term investments balance and rising interest rates .",
+        "Positive": 0.9302406907081604,
+        "Negative": 0.03376791253685951,
+        "Neutral": 0.03599146753549576,
+        "Sentiment": "positive",
+        "MaxScore": 0.9302406907081604
+    },
+    {
+        "Sentence": "we recognized $ 288 million in revenue in the first quarter of 2022 primarily due to changes in regulation which entitled us to additional consideration for credits sold previously , in the absence of which we had an increase in automotive regulatory credits revenue year over year .",
+        "Positive": 0.9275115132331848,
+        "Negative": 0.027185579761862755,
+        "Neutral": 0.04530294984579086,
+        "Sentiment": "positive",
+        "MaxScore": 0.9275115132331848
+    },
+    {
+        "Sentence": "we are currently focused on ramping production of energy storage products , improving our solar roof installation capability and efficiency , and increasing market share of retrofit solar energy systems .",
+        "Positive": 0.9260824918746948,
+        "Negative": 0.009637441486120224,
+        "Neutral": 0.06428004801273346,
+        "Sentiment": "positive",
+        "MaxScore": 0.9260824918746948
+    },
+    {
+        "Sentence": "sustained growth has allowed our business to generally fund itself , and we will continue investing in a number of capital - intensive projects in upcoming periods .",
+        "Positive": 0.9259939789772034,
+        "Negative": 0.011728247627615929,
+        "Neutral": 0.062277741730213165,
+        "Sentiment": "positive",
+        "MaxScore": 0.9259939789772034
+    },
+    {
+        "Sentence": "additionally , there was a higher proportion of energy storage sales , which operated at a higher gross margin , within the segment .",
+        "Positive": 0.9185571074485779,
+        "Negative": 0.02288627438247204,
+        "Neutral": 0.058556631207466125,
+        "Sentiment": "positive",
+        "MaxScore": 0.9185571074485779
+    },
+    {
+        "Sentence": "the change is primarily due to an increase in used vehicle revenue driven by increases in volume offset by decreases in average selling price of used tesla and non - tesla vehicles , non - warranty maintenance services revenue as our fleet continues to grow , paid supercharging revenue , insurance services revenue and retail merchandise revenue .",
+        "Positive": 0.9178805947303772,
+        "Negative": 0.03186248987913132,
+        "Neutral": 0.050256915390491486,
+        "Sentiment": "positive",
+        "MaxScore": 0.9178805947303772
+    },
+    {
+        "Sentence": "in particular , we remain focused on increasing the capability and efficiency of our servicing operations .",
+        "Positive": 0.9167587161064148,
+        "Negative": 0.008918138220906258,
+        "Neutral": 0.07432305812835693,
+        "Sentiment": "positive",
+        "MaxScore": 0.9167587161064148
+    },
+    {
+        "Sentence": "our goals are to improve vehicle performance , decrease production costs and increase affordability and customer awareness .",
+        "Positive": 0.9160946607589722,
+        "Negative": 0.00900921318680048,
+        "Neutral": 0.07489611953496933,
+        "Sentiment": "positive",
+        "MaxScore": 0.9160946607589722
+    },
+    {
+        "Sentence": "moreover , we expect to continue to benefit from ongoing electrification of the automotive sector and increasing environmental awareness .",
+        "Positive": 0.9158102869987488,
+        "Negative": 0.009162724018096924,
+        "Neutral": 0.07502703368663788,
+        "Sentiment": "positive",
+        "MaxScore": 0.9158102869987488
+    },
+    {
+        "Sentence": "these increases in costs of revenue were positively impacted by the united states dollar strengthening against other foreign currencies in the three months ended march 31 , 2023 as compared to the prior period .",
+        "Positive": 0.9120112061500549,
+        "Negative": 0.06570914387702942,
+        "Neutral": 0.022279631346464157,
+        "Sentiment": "positive",
+        "MaxScore": 0.9120112061500549
+    },
+    {
+        "Sentence": "we have and will continue to utilize such cash flows , among other things , to do more vertical integration , expand our product roadmap and provide financing options to our customers .",
+        "Positive": 0.9013380408287048,
+        "Negative": 0.008304329589009285,
+        "Neutral": 0.09035760909318924,
+        "Sentiment": "positive",
+        "MaxScore": 0.9013380408287048
+    },
+    {
+        "Sentence": "this increase was primarily due to higher interest earned on our cash and cash equivalents and short - term investments during the three months ended march 31 , 2023 as compared to the prior period .",
+        "Positive": 0.9013099670410156,
+        "Negative": 0.06387271732091904,
+        "Neutral": 0.034817274659872055,
+        "Sentiment": "positive",
+        "MaxScore": 0.9013099670410156
+    },
+    {
+        "Sentence": "accordingly , we believe that our current sources of funds will provide us with adequate liquidity during the 12 - month period following march 31 , 2023 , as well as in the long - term .",
+        "Positive": 0.8969070315361023,
+        "Negative": 0.013490651734173298,
+        "Neutral": 0.08960232138633728,
+        "Sentiment": "positive",
+        "MaxScore": 0.8969070315361023
+    },
+    {
+        "Sentence": "we are currently focused on increasing vehicle production , capacity and delivery capabilities , reducing costs , improving and developing battery technologies , improving our fsd capabilities , increasing the affordability and efficiency of our vehicles , bringing new products to market and expanding our global infrastructure .",
+        "Positive": 0.8962932825088501,
+        "Negative": 0.008112387731671333,
+        "Neutral": 0.09559421986341476,
+        "Sentiment": "positive",
+        "MaxScore": 0.8962932825088501
+    },
+    {
+        "Sentence": "further , the average combined cost per unit of our vehicles increased year over year due to increasing prices of raw materials , manufacturing , logistics and warranty costs .",
+        "Positive": 0.8942312598228455,
+        "Negative": 0.07976747304201126,
+        "Neutral": 0.026001235470175743,
+        "Sentiment": "positive",
+        "MaxScore": 0.8942312598228455
+    },
+    {
+        "Sentence": "automotive & # x2014 ; demand , sales , deliveries and infrastructure our cost reduction efforts , cost innovation strategies , and additional localized procurement and manufacturing are key to our vehicles & # x2019 ; affordability , and for example , have allowed us to competitively price our vehicles .",
+        "Positive": 0.8859344720840454,
+        "Negative": 0.007817154750227928,
+        "Neutral": 0.10624830424785614,
+        "Sentiment": "positive",
+        "MaxScore": 0.8859344720840454
+    },
+    {
+        "Sentence": "as these product lines grow , we will have to maintain adequate battery cell supply for our energy storage products and hire additional personnel , particularly skilled electricians , to support the ramp of solar roof .",
+        "Positive": 0.8843934535980225,
+        "Negative": 0.010814433917403221,
+        "Neutral": 0.10479213297367096,
+        "Sentiment": "positive",
+        "MaxScore": 0.8843934535980225
+    },
+    {
+        "Sentence": "as we expand our manufacturing operations globally , we will also have to continue to increase and staff our delivery , servicing and charging infrastructure accordingly , maintain our vehicle reliability and optimize our supercharger locations to ensure cost effectiveness and customer satisfaction .",
+        "Positive": 0.8832718729972839,
+        "Negative": 0.009315465576946735,
+        "Neutral": 0.1074126809835434,
+        "Sentiment": "positive",
+        "MaxScore": 0.8832718729972839
+    },
+    {
+        "Sentence": "additionally , services and other was a higher percentage of the segment gross margin during the first quarter of 2023 as compared to the prior year .",
+        "Positive": 0.8832494020462036,
+        "Negative": 0.06243947148323059,
+        "Neutral": 0.05431118234992027,
+        "Sentiment": "positive",
+        "MaxScore": 0.8832494020462036
+    },
+    {
+        "Sentence": "in addition , because a large portion of our future expenditures will be to fund our growth , we expect that if needed we will be able to adjust our capital and operating expenditures by operating segment .",
+        "Positive": 0.8655892610549927,
+        "Negative": 0.02043852023780346,
+        "Neutral": 0.11397220939397812,
+        "Sentiment": "positive",
+        "MaxScore": 0.8655892610549927
+    },
+    {
+        "Sentence": "tesla has implemented various remedial measures , including conducting training and audits , and enhancements to its site waste management programs .",
+        "Positive": 0.8614816069602966,
+        "Negative": 0.008368000388145447,
+        "Neutral": 0.1301504373550415,
+        "Sentiment": "positive",
+        "MaxScore": 0.8614816069602966
+    },
+    {
+        "Sentence": "interest income & # 160 ; & # 160 ; & # 160 ; three months ended march 31 , & # 160 ; & # 160 ; change & # 160 ; ( dollars in millions ) & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; & # 160 ; $ & # 160 ; & # 160 ; % & # 160 ; interest income & # 160 ; $ 213 & # 160 ; & # 160 ; $ 28 & # 160 ; & # 160 ; $ 185 & # 160 ; & # 160 ; & # 160 ; 661 % & # 160 ; interest income increased $ 185 million , or 661 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.8458296060562134,
+        "Negative": 0.08168452233076096,
+        "Neutral": 0.07248587906360626,
+        "Sentiment": "positive",
+        "MaxScore": 0.8458296060562134
+    },
+    {
+        "Sentence": "this was driven by the growth in energy generation and storage revenue and cost of energy generation and storage revenue as discussed above .",
+        "Positive": 0.8173872232437134,
+        "Negative": 0.011207029223442078,
+        "Neutral": 0.17140579223632812,
+        "Sentiment": "positive",
+        "MaxScore": 0.8173872232437134
+    },
+    {
+        "Sentence": "we will also continue to generate demand and brand awareness by improving our vehicles & # x2019 ; performance and functionality , including through products based on artificial intelligence such as autopilot and fsd , and other software features , and delivering new vehicles , such as our upcoming cybertruck .",
+        "Positive": 0.815743625164032,
+        "Negative": 0.006688015069812536,
+        "Neutral": 0.17756839096546173,
+        "Sentiment": "positive",
+        "MaxScore": 0.815743625164032
+    },
+    {
+        "Sentence": "government and other investments , to do more vertical integration , expand our product roadmap and provide financing options to our customers .",
+        "Positive": 0.8050166964530945,
+        "Negative": 0.0063952188938856125,
+        "Neutral": 0.18858806788921356,
+        "Sentiment": "positive",
+        "MaxScore": 0.8050166964530945
+    },
+    {
+        "Sentence": "we continue adapting our strategy to meet our liquidity and risk objectives , such as investing in u . s .",
+        "Positive": 0.8017448782920837,
+        "Negative": 0.006709787994623184,
+        "Neutral": 0.19154532253742218,
+        "Sentiment": "positive",
+        "MaxScore": 0.8017448782920837
+    },
+    {
+        "Sentence": "we remain committed to growing our retrofit solar energy business by offering a low - cost and simplified online ordering experience .",
+        "Positive": 0.7881187796592712,
+        "Negative": 0.006908274255692959,
+        "Neutral": 0.20497286319732666,
+        "Sentiment": "positive",
+        "MaxScore": 0.7881187796592712
+    },
+    {
+        "Sentence": "the next phase of production growth will depend on the ramp at gigafactory berlin - brandenburg and gigafactory texas , as well as our ability to add to our available sources of battery cell supply by manufacturing our own cells that we are developing to have high - volume output , lower capital and production costs and longer range .",
+        "Positive": 0.7805485725402832,
+        "Negative": 0.007352861575782299,
+        "Neutral": 0.21209849417209625,
+        "Sentiment": "positive",
+        "MaxScore": 0.7805485725402832
+    },
+    {
+        "Sentence": "selling , general and administrative expense & # 160 ; & # 160 ; & # 160 ; three months ended march 31 , & # 160 ; & # 160 ; change & # 160 ; ( dollars in millions ) & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; & # 160 ; $ & # 160 ; & # 160 ; % & # 160 ; selling , general and administrative & # 160 ; $ 1 , 076 & # 160 ; & # 160 ; $ 992 & # 160 ; & # 160 ; $ 84 & # 160 ; & # 160 ; & # 160 ; 8 % as a percentage of revenues & # 160 ; & # 160 ; 5 % & # 160 ; & # 160 ; 5 % & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; selling , general and administrative ( & # x201c ; sga & # x201d ; ) expenses increased $ 84 million , or 8 % , in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.7740737795829773,
+        "Negative": 0.08339380472898483,
+        "Neutral": 0.1425323635339737,
+        "Sentiment": "positive",
+        "MaxScore": 0.7740737795829773
+    },
+    {
+        "Sentence": "the increase in our net operating assets and liabilities was mainly driven by a larger increase of inventory in the three months ended march 31 , 2023 as compared to the three months ended march 31 , 2022 .",
+        "Positive": 0.7703142762184143,
+        "Negative": 0.12677046656608582,
+        "Neutral": 0.1029152050614357,
+        "Sentiment": "positive",
+        "MaxScore": 0.7703142762184143
+    },
+    {
+        "Sentence": "on january 22 , 2020 , all of the director defendants except elon musk reached a settlement to resolve the lawsuit against them for an amount to be paid entirely under the applicable insurance policy .",
+        "Positive": 0.767057478427887,
+        "Negative": 0.03223072737455368,
+        "Neutral": 0.20071183145046234,
+        "Sentiment": "positive",
+        "MaxScore": 0.767057478427887
+    },
+    {
+        "Sentence": "this was driven by a $ 84 million increase in facilities - related expenses and a $ 49 million increase in employee and labor costs primarily from increased headcount , including professional services .",
+        "Positive": 0.7571853995323181,
+        "Negative": 0.21981331706047058,
+        "Neutral": 0.023001255467534065,
+        "Sentiment": "positive",
+        "MaxScore": 0.7571853995323181
+    },
+    {
+        "Sentence": "this was achieved from production ramping of model y at gigafactory shanghai , gigafactory berlin - brandenburg , gigafactory texas and the fremont factory .",
+        "Positive": 0.7526956796646118,
+        "Negative": 0.009772035293281078,
+        "Neutral": 0.23753227293491364,
+        "Sentiment": "positive",
+        "MaxScore": 0.7526956796646118
+    },
+    {
+        "Sentence": "balances held in foreign currencies had a u . s .",
+        "Positive": 0.7512086629867554,
+        "Negative": 0.16277357935905457,
+        "Neutral": 0.08601785451173782,
+        "Sentiment": "positive",
+        "MaxScore": 0.7512086629867554
+    },
+    {
+        "Sentence": "overview our mission is to accelerate the world & # x2019 ; s transition to sustainable energy .",
+        "Positive": 0.7497320771217346,
+        "Negative": 0.0077722687274217606,
+        "Neutral": 0.24249568581581116,
+        "Sentiment": "positive",
+        "MaxScore": 0.7497320771217346
+    },
+    {
+        "Sentence": "energy generation and storage demand , production and deployment & # 160 ; the long - term success of this business is dependent upon increasing margins through greater volumes .",
+        "Positive": 0.7276437878608704,
+        "Negative": 0.009234090335667133,
+        "Neutral": 0.2631221413612366,
+        "Sentiment": "positive",
+        "MaxScore": 0.7276437878608704
+    },
+    {
+        "Sentence": "as we are invoiced for these goods and services , this balance will reduce and accounts payable will increase .",
+        "Positive": 0.7200593948364258,
+        "Negative": 0.21350276470184326,
+        "Neutral": 0.06643782556056976,
+        "Sentiment": "positive",
+        "MaxScore": 0.7200593948364258
+    },
+    {
+        "Sentence": "of the total deferred revenue balance as of march 31 , 2023 , we expect to recognize $ 679 million of revenue in the next 12 months .",
+        "Positive": 0.7083380222320557,
+        "Negative": 0.018314067274332047,
+        "Neutral": 0.273347944021225,
+        "Sentiment": "positive",
+        "MaxScore": 0.7083380222320557
+    },
+    {
+        "Sentence": "the cash we generate from our core operations enables us to fund ongoing operations and production , our research and development projects for new products and technologies including our proprietary battery cells , additional manufacturing ramps at existing manufacturing facilities such as the fremont factory , gigafactory nevada , gigafactory shanghai and gigafactory new york , the ramp of gigafactory berlin - brandenburg and gigafactory texas , the construction of future factories , and the continued expansion of our retail and service locations , body shops , mobile service fleet , supercharger network , energy product installation capabilities and autonomy and other artificial intelligence enabled products .",
+        "Positive": 0.6830883026123047,
+        "Negative": 0.00835191085934639,
+        "Neutral": 0.308559775352478,
+        "Sentiment": "positive",
+        "MaxScore": 0.6830883026123047
+    },
+    {
+        "Sentence": "moreover , we have set ambitious technological targets with our plans for battery cells as well as for iterative manufacturing and design improvements for our vehicles with each new factory .",
+        "Positive": 0.682386577129364,
+        "Negative": 0.008137165568768978,
+        "Neutral": 0.3094762861728668,
+        "Sentiment": "positive",
+        "MaxScore": 0.682386577129364
+    },
+    {
+        "Sentence": "these increases were offset by a decrease of $ 52 million in stock - based compensation expense , most of which is attributable to the lower stock - based compensation expense of $ 48 million on the 2018 ceo performance award which was fully expensed as of december 31 , 2022 .",
+        "Positive": 0.6756552457809448,
+        "Negative": 0.2820945680141449,
+        "Neutral": 0.042250145226716995,
+        "Sentiment": "positive",
+        "MaxScore": 0.6756552457809448
+    },
+    {
+        "Sentence": "we have been providing loans for financing our energy generation products in volume since fiscal year 2022 .",
+        "Positive": 0.6492487788200378,
+        "Negative": 0.009169882163405418,
+        "Neutral": 0.3415813446044922,
+        "Sentiment": "positive",
+        "MaxScore": 0.6492487788200378
+    },
+    {
+        "Sentence": "for the three month period ended march 31 , 2023 , the impact was primarily a reduction of our material costs .",
+        "Positive": 0.6404479146003723,
+        "Negative": 0.08139326423406601,
+        "Neutral": 0.2781588137149811,
+        "Sentiment": "positive",
+        "MaxScore": 0.6404479146003723
+    },
+    {
+        "Sentence": "this increase was partially offset by lower average selling price on our vehicles driven by overall price reductions year over year .",
+        "Positive": 0.6316181421279907,
+        "Negative": 0.33343175053596497,
+        "Neutral": 0.03495010733604431,
+        "Sentiment": "positive",
+        "MaxScore": 0.6316181421279907
+    },
+    {
+        "Sentence": "on april 13 , 2022 , the court granted tesla & # x2019 ; s motion in part , reducing the total damages and conditionally denied the motion for a new trial subject to the plaintiff & # x2019 ; s acceptance of the reduced award .",
+        "Positive": 0.5873119831085205,
+        "Negative": 0.2856641113758087,
+        "Neutral": 0.1270238757133484,
+        "Sentiment": "positive",
+        "MaxScore": 0.5873119831085205
+    },
+    {
+        "Sentence": "& # 160 ; note 8 & # x2013 ; equity incentive plansother performance - based grants2021 performance - based stock option restricted stock unit ( & # x201c ; rsu & # x201d ; ) awardsduring the fourth quarter of 2021 , the compensation committee of our board of directors granted to certain employees performance - based rsus and stock options to purchase an aggregate 2 . 2 million shares of our common stock , as adjusted to give effect to the 2022 stock split .",
+        "Positive": 0.585321307182312,
+        "Negative": 0.011242305859923363,
+        "Neutral": 0.40343642234802246,
+        "Sentiment": "positive",
+        "MaxScore": 0.585321307182312
+    },
+    {
+        "Sentence": "these changes would have resulted in a gain or loss of $ 435 million at march 31 , 2023 and $ 473 million at december 31 , 2022 , assuming no foreign currency hedging .",
+        "Positive": 0.5822013020515442,
+        "Negative": 0.04031137004494667,
+        "Neutral": 0.37748727202415466,
+        "Sentiment": "positive",
+        "MaxScore": 0.5822013020515442
+    },
+    {
+        "Sentence": "tesla received payment of approximately $ 43 million on september 16 , 2020 , which has been recognized in our consolidated statements of operations as a reduction to selling , general and administrative operating expenses for costs previously incurred related to the acquisition of solarcity .",
+        "Positive": 0.5793588757514954,
+        "Negative": 0.28126809000968933,
+        "Neutral": 0.13937310874462128,
+        "Sentiment": "positive",
+        "MaxScore": 0.5793588757514954
+    },
+    {
+        "Sentence": "finally , we continually evaluate our cash needs and may decide it is best to raise additional capital or seek alternative financing sources to fund the rapid growth of our business , including through drawdowns on existing or new debt facilities or financing funds .",
+        "Positive": 0.4890635013580322,
+        "Negative": 0.043143611401319504,
+        "Neutral": 0.46779292821884155,
+        "Sentiment": "positive",
+        "MaxScore": 0.4890635013580322
+    },
+    {
+        "Sentence": "we considered the historical trends in foreign currency exchange rates and determined that it is reasonably possible that adverse changes in foreign currency exchange rates of 10 % for all currencies could be experienced in the near - term .",
+        "Positive": 0.4657389223575592,
+        "Negative": 0.13694021105766296,
+        "Neutral": 0.39732086658477783,
+        "Sentiment": "positive",
+        "MaxScore": 0.4657389223575592
+    },
+    {
+        "Sentence": "for example , inflationary pressures have increased across the markets in which we operate .",
+        "Positive": 0.4082518219947815,
+        "Negative": 0.22392860054969788,
+        "Neutral": 0.3678196370601654,
+        "Sentiment": "positive",
+        "MaxScore": 0.4082518219947815
+    }
+]

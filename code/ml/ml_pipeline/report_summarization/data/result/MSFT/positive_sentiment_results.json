@@ -1,0 +1,162 @@
+[
+    {
+        "Sentence": "windows commercial products and cloud services revenue increased 6 % driven by demand for microsoft 365 with an increase in agreements that carry higher in - period revenue recognition .",
+        "Positive": 0.9627794623374939,
+        "Negative": 0.017861120402812958,
+        "Neutral": 0.019359450787305832,
+        "Sentiment": "positive",
+        "MaxScore": 0.9627794623374939
+    },
+    {
+        "Sentence": "search and news advertising revenue excluding traffic acquisition costs increased 10 % driven by higher search volume and the xandr acquisition .",
+        "Positive": 0.96189284324646,
+        "Negative": 0.01714688166975975,
+        "Neutral": 0.02096019871532917,
+        "Sentiment": "positive",
+        "MaxScore": 0.96189284324646
+    },
+    {
+        "Sentence": "windows commercial products and cloud services revenue increased 14 % driven by strong renewal execution and an increase in agreements that carry higher in - period revenue recognition .",
+        "Positive": 0.9618872404098511,
+        "Negative": 0.017467904835939407,
+        "Neutral": 0.0206449031829834,
+        "Sentiment": "positive",
+        "MaxScore": 0.9618872404098511
+    },
+    {
+        "Sentence": "search and news advertising revenue excluding traffic acquisition costs increased 12 % driven by higher search volume and the xandr acquisition .",
+        "Positive": 0.9612783193588257,
+        "Negative": 0.017368370667099953,
+        "Neutral": 0.021353282034397125,
+        "Sentiment": "positive",
+        "MaxScore": 0.9612783193588257
+    },
+    {
+        "Sentence": "& # x2022 ; windows commercial products and cloud services revenue increased 14 % .",
+        "Positive": 0.9609006643295288,
+        "Negative": 0.017267655581235886,
+        "Neutral": 0.021831659600138664,
+        "Sentiment": "positive",
+        "MaxScore": 0.9609006643295288
+    },
+    {
+        "Sentence": "& # x2022 ; server products and cloud services revenue increased 17 % driven by azure and other cloud services growth of 27 % .",
+        "Positive": 0.9605319499969482,
+        "Negative": 0.01708574965596199,
+        "Neutral": 0.02238226681947708,
+        "Sentiment": "positive",
+        "MaxScore": 0.9605319499969482
+    },
+    {
+        "Sentence": "& # x2022 ; search and news advertising revenue excluding traffic acquisition costs increased 10 % .",
+        "Positive": 0.960345447063446,
+        "Negative": 0.017574820667505264,
+        "Neutral": 0.022079698741436005,
+        "Sentiment": "positive",
+        "MaxScore": 0.960345447063446
+    },
+    {
+        "Sentence": "& # x2022 ; dynamics products and cloud services revenue increased 17 % driven by dynamics 365 growth of 25 % .",
+        "Positive": 0.9603368043899536,
+        "Negative": 0.01618601195514202,
+        "Neutral": 0.02347717620432377,
+        "Sentiment": "positive",
+        "MaxScore": 0.9603368043899536
+    },
+    {
+        "Sentence": "& # x2022 ; dynamics products and cloud services revenue increased 17 % driven by dynamics 365 growth of 25 % .",
+        "Positive": 0.9603368043899536,
+        "Negative": 0.01618601195514202,
+        "Neutral": 0.02347717620432377,
+        "Sentiment": "positive",
+        "MaxScore": 0.9603368043899536
+    },
+    {
+        "Sentence": "& # x2022 ; dynamics products and cloud services revenue increased 15 % driven by dynamics 365 growth of 23 % .",
+        "Positive": 0.9601916670799255,
+        "Negative": 0.016246885061264038,
+        "Neutral": 0.023561490699648857,
+        "Sentiment": "positive",
+        "MaxScore": 0.9601916670799255
+    },
+    {
+        "Sentence": "& # x2022 ; xbox content and services revenue increased 3 % .",
+        "Positive": 0.9599885940551758,
+        "Negative": 0.01639482192695141,
+        "Neutral": 0.02361656166613102,
+        "Sentiment": "positive",
+        "MaxScore": 0.9599885940551758
+    },
+    {
+        "Sentence": "xbox content and services revenue increased 3 % driven by growth in xbox game pass .",
+        "Positive": 0.9598492383956909,
+        "Negative": 0.01649402640759945,
+        "Neutral": 0.023656707257032394,
+        "Sentiment": "positive",
+        "MaxScore": 0.9598492383956909
+    },
+    {
+        "Sentence": "& # x2022 ; office commercial products and cloud services revenue increased 13 % driven by office 365 commercial growth of 14 % .",
+        "Positive": 0.9597578644752502,
+        "Negative": 0.01755680702626705,
+        "Neutral": 0.02268540859222412,
+        "Sentiment": "positive",
+        "MaxScore": 0.9597578644752502
+    },
+    {
+        "Sentence": "productivity and business processes revenue increased driven by office 365 commercial and linkedin .",
+        "Positive": 0.9595497250556946,
+        "Negative": 0.01686997339129448,
+        "Neutral": 0.023580310866236687,
+        "Sentiment": "positive",
+        "MaxScore": 0.9595497250556946
+    },
+    {
+        "Sentence": "& # x2022 ; office consumer products and cloud services revenue increased 1 % and microsoft 365 consumer subscribers increased to 65 . 4 million .",
+        "Positive": 0.9593193531036377,
+        "Negative": 0.014882989227771759,
+        "Neutral": 0.025797640904784203,
+        "Sentiment": "positive",
+        "MaxScore": 0.9593193531036377
+    },
+    {
+        "Sentence": "productivity and business processes revenue increased driven by office 365 commercial .",
+        "Positive": 0.9591996669769287,
+        "Negative": 0.017788290977478027,
+        "Neutral": 0.023011988028883934,
+        "Sentiment": "positive",
+        "MaxScore": 0.9591996669769287
+    },
+    {
+        "Sentence": "office 365 commercial revenue grew 12 % with seat growth of 11 % , driven by small and medium business and frontline worker offerings , as well as growth in revenue per user .",
+        "Positive": 0.9587045311927795,
+        "Negative": 0.016423076391220093,
+        "Neutral": 0.024872398003935814,
+        "Sentiment": "positive",
+        "MaxScore": 0.9587045311927795
+    },
+    {
+        "Sentence": "cost of revenue increased $ 513 million or 3 % driven by growth in microsoft cloud , offset in part by a reduction in depreciation expense due to the change in accounting estimate for the useful lives of our server and network equipment .",
+        "Positive": 0.9586082100868225,
+        "Negative": 0.020386340096592903,
+        "Neutral": 0.021005477756261826,
+        "Sentiment": "positive",
+        "MaxScore": 0.9586082100868225
+    },
+    {
+        "Sentence": "office 365 commercial revenue grew 14 % with seat growth of 11 % , driven by small and medium business and frontline worker offerings , as well as growth in revenue per user .",
+        "Positive": 0.9585744738578796,
+        "Negative": 0.01649937406182289,
+        "Neutral": 0.02492620050907135,
+        "Sentiment": "positive",
+        "MaxScore": 0.9585744738578796
+    },
+    {
+        "Sentence": "azure and other cloud services revenue grew 27 % driven by growth in our consumption - based services .",
+        "Positive": 0.9583883881568909,
+        "Negative": 0.013514204882085323,
+        "Neutral": 0.028097273781895638,
+        "Sentiment": "positive",
+        "MaxScore": 0.9583883881568909
+    }
+]

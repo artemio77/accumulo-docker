@@ -1,0 +1,234 @@
+[
+    {
+        "Sentence": "gross margin decreased for the three months ended march 31 , 2023 due to increases in cost of revenues for other direct costs associated with making our platform available to our billers .",
+        "Positive": 0.011117126792669296,
+        "Negative": 0.9715840220451355,
+        "Neutral": 0.01729878969490528,
+        "Sentiment": "negative",
+        "MaxScore": 0.9715840220451355
+    },
+    {
+        "Sentence": "impact of economic and inflationary trends in 2022 and continuing into 2023 , the united states economy has experienced inflationary conditions , increased interest rates and consecutive quarters of decreased gross domestic product .",
+        "Positive": 0.01470364909619093,
+        "Negative": 0.9711135625839233,
+        "Neutral": 0.014182857237756252,
+        "Sentiment": "negative",
+        "MaxScore": 0.9711135625839233
+    },
+    {
+        "Sentence": "any decline in available funding or access to our cash and liquidity resources could , among other risks , adversely impact our ability to meet our operating expenses , financial obligations or fulfill our other obligations , result in breaches of our contractual obligations or result in violations of federal or state wage and hour laws .",
+        "Positive": 0.008187235333025455,
+        "Negative": 0.9624633193016052,
+        "Neutral": 0.02934940531849861,
+        "Sentiment": "negative",
+        "MaxScore": 0.9624633193016052
+    },
+    {
+        "Sentence": "in addition , although we are focused on prudent expense management , we are seeing ongoing wage pressure in our current workforce due to the levels of inflation , which is also putting some short - term pressure on our ebitda margins .",
+        "Positive": 0.019323786720633507,
+        "Negative": 0.9572005867958069,
+        "Neutral": 0.023475579917430878,
+        "Sentiment": "negative",
+        "MaxScore": 0.9572005867958069
+    },
+    {
+        "Sentence": "accordingly , the total unsatisfied or partially unsatisfied performance obligations related to processing services is significantly higher than the amount disclosed . contract balancescontract balances consist of the following : & # 160 ; & # 160 ; march 31 , & # 160 ; & # 160 ; december 31 , & # 160 ; & # 160 ; & # 160 ; & # 160 ; 2023 & # 160 ; & # 160 ; 2022 & # 160 ; & # 160 ; contract assets & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; costs to fulfill ( prepaid expenses and other current assets ) & # 160 ; $ 2 , 742 & # 160 ; & # 160 ; $ 2 , 732 & # 160 ; & # 160 ; costs to fulfill ( other long - term assets ) & # 160 ; & # 160 ; 6 , 283 & # 160 ; & # 160 ; & # 160 ; 6 , 929 & # 160 ; & # 160 ; total contract assets & # 160 ; $ 9 , 025 & # 160 ; & # 160 ; $ 9 , 661 & # 160 ; & # 160 ; contract liabilities & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; & # 160 ; contract liabilities & # 160 ; $ 4 , 639 & # 160 ; & # 160 ; $ 4 , 358 & # 160 ; & # 160 ; contract liabilities , less current portion & # 160 ; & # 160 ; 4 , 606 & # 160 ; & # 160 ; & # 160 ; 2 , 826 & # 160 ; & # 160 ; total contract liabilities & # 160 ; $ 9 , 245 & # 160 ; & # 160 ; $ 7 , 184 & # 160 ; & # 160 ; during the three months ended march 31 , 2023 and 2022 , the company reduced revenue and the related contract assets by $ 0 . 7 million and $ 0 . 5 million , respectively . revenue recognized during the three months ended march 31 , 2023 and 2022 that was included in the contract liabilities balance at the beginning of each of the periods was $ 0 . 7 million in each period .",
+        "Positive": 0.011064214631915092,
+        "Negative": 0.955618679523468,
+        "Neutral": 0.03331713005900383,
+        "Sentiment": "negative",
+        "MaxScore": 0.955618679523468
+    },
+    {
+        "Sentence": "while we believe our business is resilient and can generally weather unusual levels of inflation , the economic uncertainty and continuing inflationary pressures , which has been particularly acute in the utility sector , impacted our fiscal 2022 and first quarter 2023 financial performance and is expected to impact our 2023 financial performance .",
+        "Positive": 0.016058022156357765,
+        "Negative": 0.9526047706604004,
+        "Neutral": 0.03133723884820938,
+        "Sentiment": "negative",
+        "MaxScore": 0.9526047706604004
+    },
+    {
+        "Sentence": "over time , controls may become inadequate because of changes in conditions , or the degree of compliance with the policies or procedures may deteriorate .",
+        "Positive": 0.015392942354083061,
+        "Negative": 0.9441422820091248,
+        "Neutral": 0.04046471416950226,
+        "Sentiment": "negative",
+        "MaxScore": 0.9441422820091248
+    },
+    {
+        "Sentence": "for example , some of our clients have deferred anticipated 2022 implementations into 2023 or are reevaluating the development of technology resources , which will delay expected revenue recognition .",
+        "Positive": 0.009984267875552177,
+        "Negative": 0.9441225528717041,
+        "Neutral": 0.04589322954416275,
+        "Sentiment": "negative",
+        "MaxScore": 0.9441225528717041
+    },
+    {
+        "Sentence": "based on that evaluation , and as a result of the material weaknesses in internal control over financial reporting described below , our chief executive officer and chief financial officer concluded that , as of march 31 , 2023 , our disclosure controls and procedures were not effective at the reasonable assurance level .",
+        "Positive": 0.01322851236909628,
+        "Negative": 0.9322354793548584,
+        "Neutral": 0.05453606694936752,
+        "Sentiment": "negative",
+        "MaxScore": 0.9322354793548584
+    },
+    {
+        "Sentence": "any future indebtedness we incur may result in terms that could be unfavorable to equity investors .",
+        "Positive": 0.01889350265264511,
+        "Negative": 0.9299135804176331,
+        "Neutral": 0.0511929951608181,
+        "Sentiment": "negative",
+        "MaxScore": 0.9299135804176331
+    },
+    {
+        "Sentence": "furthermore , inflationary pressure is resulting in higher average bills , particularly in the utility sector , and increased interchange fees .",
+        "Positive": 0.06216459348797798,
+        "Negative": 0.9090190529823303,
+        "Neutral": 0.028816314414143562,
+        "Sentiment": "negative",
+        "MaxScore": 0.9090190529823303
+    },
+    {
+        "Sentence": "additionally , we incurred increased stock - based compensation expense associated with routine and new hire grants .",
+        "Positive": 0.07562386244535446,
+        "Negative": 0.9071673154830933,
+        "Neutral": 0.017208902165293694,
+        "Sentiment": "negative",
+        "MaxScore": 0.9071673154830933
+    },
+    {
+        "Sentence": "as of march 31 , 2023 , our material weaknesses were as follows : & # x2022 ; we lacked a sufficient number of trained professionals with an appropriate level of accounting knowledge , training and experience to appropriately analyze , record and disclose accounting matters , including accounting for capitalized internal - use software development costs , identification of reporting units , translation of foreign currency in consolidation , accounting for deferred compensation , calculation of earnings per share and classification of accounts in the financial statements .",
+        "Positive": 0.012521674856543541,
+        "Negative": 0.9037566781044006,
+        "Neutral": 0.08372168242931366,
+        "Sentiment": "negative",
+        "MaxScore": 0.9037566781044006
+    },
+    {
+        "Sentence": "or international financial systems could result in less favorable commercial financing terms , including higher interest rates or costs and tighter financial and operating covenants , or systemic limitations on access to credit and liquidity sources , thereby making it more difficult for us to acquire financing on acceptable terms or at all .",
+        "Positive": 0.018351014703512192,
+        "Negative": 0.8912426829338074,
+        "Neutral": 0.09040623158216476,
+        "Sentiment": "negative",
+        "MaxScore": 0.8912426829338074
+    },
+    {
+        "Sentence": "material weaknesses in internal control over financial reporting a material weakness is a deficiency , or a combination of deficiencies , in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our financial statements will not be prevented or detected on a timely basis .",
+        "Positive": 0.014400008134543896,
+        "Negative": 0.8842880725860596,
+        "Neutral": 0.10131190717220306,
+        "Sentiment": "negative",
+        "MaxScore": 0.8842880725860596
+    },
+    {
+        "Sentence": "although we assess our banking and customer relationships as we believe necessary or appropriate , our access to funding sources and other credit arrangements in amounts adequate to finance or capitalize our current and projected future business operations could be significantly impaired by factors that affect us , the financial services industry or economy in general .",
+        "Positive": 0.023118050768971443,
+        "Negative": 0.8670137524604797,
+        "Neutral": 0.1098681092262268,
+        "Sentiment": "negative",
+        "MaxScore": 0.8670137524604797
+    },
+    {
+        "Sentence": "events involving limited liquidity , defaults , non - performance or other adverse developments that affect financial institutions , transactional counterparties or other companies in the financial services industry or the financial services industry generally , or concerns or rumors about any events of these kinds or other similar risks , have in the past and may in the future lead to market - wide liquidity problems .",
+        "Positive": 0.013020552694797516,
+        "Negative": 0.8570902347564697,
+        "Neutral": 0.12988921999931335,
+        "Sentiment": "negative",
+        "MaxScore": 0.8570902347564697
+    },
+    {
+        "Sentence": "federal statutory rate of 21 % was primarily the result of near break - even pre - tax income from operations , state taxes and the impact of the full valuation allowance and other permanent adjustments .",
+        "Positive": 0.060631778091192245,
+        "Negative": 0.8276510238647461,
+        "Neutral": 0.11171719431877136,
+        "Sentiment": "negative",
+        "MaxScore": 0.8276510238647461
+    },
+    {
+        "Sentence": "the inability to raise capital would adversely affect our ability to achieve our business objectives .",
+        "Positive": 0.017254382371902466,
+        "Negative": 0.8268318772315979,
+        "Neutral": 0.15591369569301605,
+        "Sentiment": "negative",
+        "MaxScore": 0.8268318772315979
+    },
+    {
+        "Sentence": "income taxes the change in provision for income taxes for the three months ended march 31 , 2023 as compared to the same period in the prior year , was primarily due to the near break - even pre - tax income from operations , state taxes and the impact of the full valuation allowance and other permanent adjustments in addition to a return to provision benefit recorded in connection with a change in estimate of costs required to be capitalized under irc section 174 , as compared to prior year discrete excess tax benefits on stock - based compensation recognized in the quarter .",
+        "Positive": 0.07944261282682419,
+        "Negative": 0.8118113279342651,
+        "Neutral": 0.10874611884355545,
+        "Sentiment": "negative",
+        "MaxScore": 0.8118113279342651
+    },
+    {
+        "Sentence": "if we raise additional financing by the incurrence of indebtedness , we may be subject to increased fixed payment obligations and could be subject to additional restrictive covenants , such as limitations on our ability to incur additional debt , and other operating restrictions that could adversely impact our ability to conduct our business or execute our growth strategy .",
+        "Positive": 0.017021477222442627,
+        "Negative": 0.7587723731994629,
+        "Neutral": 0.2242061197757721,
+        "Sentiment": "negative",
+        "MaxScore": 0.7587723731994629
+    },
+    {
+        "Sentence": "furthermore , we may become subject to stockholder inspection demands under delaware law and derivative or other similar litigation .",
+        "Positive": 0.01852858066558838,
+        "Negative": 0.7251056432723999,
+        "Neutral": 0.25636574625968933,
+        "Sentiment": "negative",
+        "MaxScore": 0.7251056432723999
+    },
+    {
+        "Sentence": "we believe that investment in research and development will contribute to our long - term growth , but may also negatively impact our short - term profitability .",
+        "Positive": 0.12197381258010864,
+        "Negative": 0.7000129222869873,
+        "Neutral": 0.17801325023174286,
+        "Sentiment": "negative",
+        "MaxScore": 0.7000129222869873
+    },
+    {
+        "Sentence": "we are not currently party to any material legal proceedings , and we are not aware of any pending or threatened legal proceeding against us that we believe could have a material adverse effect on our business , operating results , cash flows or financial condition .",
+        "Positive": 0.017178434878587723,
+        "Negative": 0.6994230151176453,
+        "Neutral": 0.28339865803718567,
+        "Sentiment": "negative",
+        "MaxScore": 0.6994230151176453
+    },
+    {
+        "Sentence": "in addition , investor concerns regarding the u . s .",
+        "Positive": 0.24845978617668152,
+        "Negative": 0.6880770921707153,
+        "Neutral": 0.06346310675144196,
+        "Sentiment": "negative",
+        "MaxScore": 0.6880770921707153
+    },
+    {
+        "Sentence": "any of these impacts , or any other impacts resulting from the factors described above or other related or similar factors not described above , could have material adverse impacts on our liquidity and our business , financial condition or results of operations .",
+        "Positive": 0.020449629053473473,
+        "Negative": 0.6342341303825378,
+        "Neutral": 0.34531623125076294,
+        "Sentiment": "negative",
+        "MaxScore": 0.6342341303825378
+    },
+    {
+        "Sentence": "all intercompany accounts and balances have been eliminated upon consolidation .",
+        "Positive": 0.018884830176830292,
+        "Negative": 0.6226518750190735,
+        "Neutral": 0.3584632873535156,
+        "Sentiment": "negative",
+        "MaxScore": 0.6226518750190735
+    },
+    {
+        "Sentence": "these factors could include , among others , actual or perceived events such as liquidity constraints or failures , the ability to perform obligations under various types of financial , credit or liquidity agreements or arrangements , disruptions or instability in the financial services industry or financial markets , or concerns or negative expectations about the prospects for companies in the financial services industry , companies that do business with such companies or companies that have customers or partners that do business with such companies .",
+        "Positive": 0.01926054060459137,
+        "Negative": 0.602464497089386,
+        "Neutral": 0.37827497720718384,
+        "Sentiment": "negative",
+        "MaxScore": 0.602464497089386
+    },
+    {
+        "Sentence": "in addition , we incurred higher agency commissions and increased stock - based compensation associated with routine and new hire grants .",
+        "Positive": 0.4742433428764343,
+        "Negative": 0.49301159381866455,
+        "Neutral": 0.03274504467844963,
+        "Sentiment": "negative",
+        "MaxScore": 0.49301159381866455
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "Sentence": "three months ended march 31 , 2023 and 2022 net revenues increased $ 557 million , or 9 % , in the three months ended march 31 , 2023 compared to the same period of the prior year driven primarily by growth in total payment volume ( & # 8220 ; tpv & # 8221 ; , as defined below under & # 8220 ; key metrics & # 8221 ; ) of 10 % .",
+        "Positive": 0.9584603309631348,
+        "Negative": 0.020553752779960632,
+        "Neutral": 0.02098585106432438,
+        "Sentiment": "positive",
+        "MaxScore": 0.9584603309631348
+    },
+    {
+        "Sentence": "total operating expenses increased $ 269 million , or 5 % , in the three months ended march 31 , 2023 compared to the same period of the prior year due primarily to an increase in transaction expense , and to a lesser extent , an increase in restructuring and other charges , partially offset by reductions in sales and marketing expense , general and administrative expense , and technology and development expense . operating income increased by $ 288 million , or 41 % , in the three months ended march 31 , 2023 compared to the same period of the prior year due to net revenues growing faster than operating expenses .",
+        "Positive": 0.9489167332649231,
+        "Negative": 0.03297276422381401,
+        "Neutral": 0.018110504373908043,
+        "Sentiment": "positive",
+        "MaxScore": 0.9489167332649231
+    },
+    {
+        "Sentence": "tpv was $ 355 billion and $ 323 & # 160 ; billion for the three months ended march 31 , 2023 and 2022 , respectively , an increase of 10 % .",
+        "Positive": 0.9475550055503845,
+        "Negative": 0.02104896679520607,
+        "Neutral": 0.031396057456731796,
+        "Sentiment": "positive",
+        "MaxScore": 0.9475550055503845
+    },
+    {
+        "Sentence": "as we expand and localize our international activities , we expect that our obligations in the markets in which we operate will continue to increase .",
+        "Positive": 0.9466301798820496,
+        "Negative": 0.015347376465797424,
+        "Neutral": 0.03802233189344406,
+        "Sentiment": "positive",
+        "MaxScore": 0.9466301798820496
+    },
+    {
+        "Sentence": "our operating margin was 14 % and 11 % in the three months ended march 31 , 2023 and 2022 , respectively , reflecting the positive impact of operating efficiencies in our business , partially offset by the negative impact of an increase in transaction expense . net income increased $ 286 million , or 56 % , in the three months ended march 31 , 2023 as compared to the same period of the prior year due to the previously discussed increase in operating income of $ 288 million and an increase in other income ( expense ) , net of $ 157 million driven primarily by higher interest income due to an increase in interest rates , partially offset by an increase in income tax expense of $ 159 million driven primarily by higher tax expense on higher income before taxes and discrete tax adjustments . impact of foreign currency exchange rateswe have significant international operations that are denominated in foreign currencies , primarily the british pound , euro , australian dollar , and canadian dollar , subjecting us to foreign currency exchange risk which may adversely impact our financial results .",
+        "Positive": 0.9459426403045654,
+        "Negative": 0.030020130798220634,
+        "Neutral": 0.02403721585869789,
+        "Sentiment": "positive",
+        "MaxScore": 0.9459426403045654
+    },
+    {
+        "Sentence": "our total number of payment transactions was 5 . 8 billion and 5 . 2 & # 160 ; billion for the three months ended march 31 , 2023 and 2022 , respectively , an increase of 13 % .",
+        "Positive": 0.9447869062423706,
+        "Negative": 0.01870560273528099,
+        "Neutral": 0.036507461220026016,
+        "Sentiment": "positive",
+        "MaxScore": 0.9447869062423706
+    },
+    {
+        "Sentence": "the provision in the three months ended march & # 160 ; 31 , 2022 was attributable to loan originations in that period , partially offset by improvements in the credit quality of loans outstanding and a reduction in the volatility of model inputs representing current and projected macroeconomic conditions at that time .",
+        "Positive": 0.9407873153686523,
+        "Negative": 0.020467057824134827,
+        "Neutral": 0.03874571993947029,
+        "Sentiment": "positive",
+        "MaxScore": 0.9407873153686523
+    },
+    {
+        "Sentence": "during the periods presented , allowances for our merchant and consumer portfolios included qualitative adjustments that took into account uncertainty with respect to macroeconomic conditions and around the financial health of our borrowers , including the effectiveness of loan modification programs made available to merchants in previous years . the consumer loans and interest receivable balance as of march & # 160 ; 31 , 2023 and 2022 was $ 6 . 1 billion and $ 4 . 1 billion , respectively , net of participation interest sold , representing a year - over - year increase of 47 % driven by the expansion of our installment credit products .",
+        "Positive": 0.9402370452880859,
+        "Negative": 0.013328919187188148,
+        "Neutral": 0.046434059739112854,
+        "Sentiment": "positive",
+        "MaxScore": 0.9402370452880859
+    },
+    {
+        "Sentence": "we also earn revenues from interest and fees earned on our portfolio of loans receivable and interest earned on certain assets underlying customer balances . 47table of contentsnet revenue analysisthe components of our net revenues for the three months ended march & # 160 ; 31 , 2023 and 2022 were as follows ( in millions ) : transaction revenuestransaction revenues grew by $ 366 million , or 6 % , in the three months ended march & # 160 ; 31 , 2023 compared to the same period of the prior year driven primarily by growth in tpv ( in particular growth in our unbranded card processing volume , which consists primarily of our braintree products and services ) and the number of payment transactions on our payments platform .",
+        "Positive": 0.9398236870765686,
+        "Negative": 0.02036658301949501,
+        "Neutral": 0.039809614419937134,
+        "Sentiment": "positive",
+        "MaxScore": 0.9398236870765686
+    },
+    {
+        "Sentence": "total merchant loans , advances , and interest and fees receivable outstanding , net of participation interest sold , as of march & # 160 ; 31 , 2023 were $ 2 . 1 billion , compared to $ 1 . 5 billion as of march & # 160 ; 31 , 2022 , representing a year - over - year increase of 33 % .",
+        "Positive": 0.9375398755073547,
+        "Negative": 0.044684916734695435,
+        "Neutral": 0.017775140702724457,
+        "Sentiment": "positive",
+        "MaxScore": 0.9375398755073547
+    },
+    {
+        "Sentence": "dollar to the australian dollar partially offset by the impact of favorable fluctuations in the exchange rate of the u . s .",
+        "Positive": 0.9356876015663147,
+        "Negative": 0.03203562647104263,
+        "Neutral": 0.03227680176496506,
+        "Sentiment": "positive",
+        "MaxScore": 0.9356876015663147
+    },
+    {
+        "Sentence": "the decrease in transaction losses in the three months ended march 31 , 2023 was primarily due to benefits from risk mitigation strategies particularly with our venmo products .",
+        "Positive": 0.9301031827926636,
+        "Negative": 0.04257306456565857,
+        "Neutral": 0.027323756366968155,
+        "Sentiment": "positive",
+        "MaxScore": 0.9301031827926636
+    },
+    {
+        "Sentence": "we monitor these areas closely and are focused on designing compliant solutions for our customers . information securityinformation security risks for global payments and technology companies like us have increased significantly in recent years .",
+        "Positive": 0.9071400761604309,
+        "Negative": 0.051928117871284485,
+        "Neutral": 0.04093179851770401,
+        "Sentiment": "positive",
+        "MaxScore": 0.9071400761604309
+    },
+    {
+        "Sentence": "foreign currency exchange rates for the three months ended march 31 , 2022 had a positive impact of $ 18 million on cash , cash equivalents , and restricted cash due primarily to the favorable impact of fluctuations in the exchange rate of the u . s .",
+        "Positive": 0.9056362509727478,
+        "Negative": 0.05453300476074219,
+        "Neutral": 0.0398307666182518,
+        "Sentiment": "positive",
+        "MaxScore": 0.9056362509727478
+    },
+    {
+        "Sentence": "restructuring and other chargesrestructuring and other charges for the three months ended march & # 160 ; 31 , 2023 and 2022 were as follows ( in millions ) : restructuring and other charges increased by $ 128 million in the three months ended march & # 160 ; 31 , 2023 compared to the same period of the prior year .",
+        "Positive": 0.879686713218689,
+        "Negative": 0.09122752398252487,
+        "Neutral": 0.029085708782076836,
+        "Sentiment": "positive",
+        "MaxScore": 0.879686713218689
+    },
+    {
+        "Sentence": "under certain exceptional circumstances , corporate liquidity could be called upon to meet our obligations related to our european customer balances . while our objective is to expand the availability of our credit products with capital from external sources , there can be no assurance that we will be successful in achieving that goal .",
+        "Positive": 0.8762456178665161,
+        "Negative": 0.007391507271677256,
+        "Neutral": 0.1163628101348877,
+        "Sentiment": "positive",
+        "MaxScore": 0.8762456178665161
+    },
+    {
+        "Sentence": "available credit and debtin february 2022 , we entered into a credit agreement ( the & # 8220 ; paidy credit agreement & # 8221 ; ) with paidy as co - borrower , which provided for an unsecured revolving credit facility of & # 165 ; 60 . 0 & # 160 ; billion , which was modified in september 2022 to increase the borrowing capacity by & # 165 ; 30 . 0 & # 160 ; billion for a total borrowing capacity of & # 165 ; 90 . 0 & # 160 ; billion ( approximately $ 678 & # 160 ; million as of march & # 160 ; 31 , 2023 . )",
+        "Positive": 0.8458617329597473,
+        "Negative": 0.009961845353245735,
+        "Neutral": 0.1441763937473297,
+        "Sentiment": "positive",
+        "MaxScore": 0.8458617329597473
+    },
+    {
+        "Sentence": "we considered the historical trends in foreign currency exchange rates and determined that it was reasonably possible that changes in exchange rates of 10 % for all currencies could be experienced in the near term .",
+        "Positive": 0.816388726234436,
+        "Negative": 0.014627066440880299,
+        "Neutral": 0.16898418962955475,
+        "Sentiment": "positive",
+        "MaxScore": 0.816388726234436
+    },
+    {
+        "Sentence": "these factors favorably impacting other income ( expense ) , net were partially offset by an increase in interest expense due in part to incremental expense from our may 2022 fixed rate debt .",
+        "Positive": 0.8126891255378723,
+        "Negative": 0.14412277936935425,
+        "Neutral": 0.04318808764219284,
+        "Sentiment": "positive",
+        "MaxScore": 0.8126891255378723
+    },
+    {
+        "Sentence": "paypal is committed to democratizing financial services to help improve the financial health of individuals and to increase economic opportunity for entrepreneurs and businesses of all sizes around the world .",
+        "Positive": 0.7968904972076416,
+        "Negative": 0.007828586734831333,
+        "Neutral": 0.19528087973594666,
+        "Sentiment": "positive",
+        "MaxScore": 0.7968904972076416
+    }
+]

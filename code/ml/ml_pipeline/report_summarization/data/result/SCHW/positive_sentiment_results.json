@@ -1,0 +1,162 @@
+[
+    {
+        "Sentence": "other revenue increased for investor services due to higher exchange processing fees and a lower provision for credit losses on bank loans .",
+        "Positive": 0.9622361063957214,
+        "Negative": 0.01702812686562538,
+        "Neutral": 0.02073582261800766,
+        "Sentiment": "positive",
+        "MaxScore": 0.9622361063957214
+    },
+    {
+        "Sentence": "csb & # 8217 ; s tier 1 leverage ratio increased from year - end 2022 , ending the first quarter of 2023 at 7 . 7 % .",
+        "Positive": 0.9599316120147705,
+        "Negative": 0.018733279779553413,
+        "Neutral": 0.02133510261774063,
+        "Sentiment": "positive",
+        "MaxScore": 0.9599316120147705
+    },
+    {
+        "Sentence": "see non - gaap financial measures for further details and a reconciliation of such measures to gaap reported results . total compensation and benefits increased in the first quarter of 2023 compared to the same period in 2022 , primarily due to growth in employee headcount to support our expanding client base and tda client account transitions , as well as annual merit increases .",
+        "Positive": 0.9591518640518188,
+        "Negative": 0.02306392230093479,
+        "Neutral": 0.01778419502079487,
+        "Sentiment": "positive",
+        "MaxScore": 0.9591518640518188
+    },
+    {
+        "Sentence": "clients opened 1 . 0 million new brokerage accounts in the first quarter of 2023 , bringing active brokerage accounts to 34 . 1 million at quarter - end , up 2 % year - over - year . schwab & # 8217 ; s financial results in the first quarter of 2023 reflected the company & # 8217 ; s sustained business momentum and the benefits of rising interest rates , partially offset by clients & # 8217 ; asset allocation decisions .",
+        "Positive": 0.9585105180740356,
+        "Negative": 0.016871465370059013,
+        "Neutral": 0.024618029594421387,
+        "Sentiment": "positive",
+        "MaxScore": 0.9585105180740356
+    },
+    {
+        "Sentence": "adjusted total expenses , which excludes acquisition and integration - related costs and amortization of acquired intangible assets , increased 7 % in the first quarter of 2023 , compared to the same period in 2022 .",
+        "Positive": 0.9577459096908569,
+        "Negative": 0.023999622091650963,
+        "Neutral": 0.018254537135362625,
+        "Sentiment": "positive",
+        "MaxScore": 0.9577459096908569
+    },
+    {
+        "Sentence": "exchange processing fees increased as a result of higher average sec fee rates .",
+        "Positive": 0.9577000737190247,
+        "Negative": 0.017245423048734665,
+        "Neutral": 0.025054510682821274,
+        "Sentiment": "positive",
+        "MaxScore": 0.9577000737190247
+    },
+    {
+        "Sentence": "professional services expense increased in the first quarter of 2023 compared to the same period in 2022 , primarily due to increased utilization of technology - related and other professional services to support overall growth of the business and enhancement to technological infrastructure to support our expanding client base , as well as the tda integration and client account transitions .",
+        "Positive": 0.9573694467544556,
+        "Negative": 0.023865584284067154,
+        "Neutral": 0.01876494288444519,
+        "Sentiment": "positive",
+        "MaxScore": 0.9573694467544556
+    },
+    {
+        "Sentence": "net interest revenue increased to $ 2 . 8 & # 160 ; billion , up 27 % from the first quarter of 2022 as higher yields on interest - earning assets more than offset higher funding costs and lower average interest - earning assets .",
+        "Positive": 0.956407904624939,
+        "Negative": 0.021043406799435616,
+        "Neutral": 0.022548682987689972,
+        "Sentiment": "positive",
+        "MaxScore": 0.956407904624939
+    },
+    {
+        "Sentence": "higher market interest rates improved yields on interest - earning assets , which more than offset the higher rates paid across interest - bearing funding sources .",
+        "Positive": 0.9562015533447266,
+        "Negative": 0.022306980565190315,
+        "Neutral": 0.02149144932627678,
+        "Sentiment": "positive",
+        "MaxScore": 0.9562015533447266
+    },
+    {
+        "Sentence": "( 4 ) includes miscellaneous service and transaction fees relating to mutual funds and etfs that are not balance - based . asset management and administration fees increased by $ 50 million , or 5 % , in the first quarter of 2023 compared to the same period in 2022 .",
+        "Positive": 0.9558528661727905,
+        "Negative": 0.02388901263475418,
+        "Neutral": 0.020258141681551933,
+        "Sentiment": "positive",
+        "MaxScore": 0.9558528661727905
+    },
+    {
+        "Sentence": "total net revenues rose 10 % year - over - year to $ 5 . 1 billion in the first quarter of 2023 .",
+        "Positive": 0.9557545781135559,
+        "Negative": 0.019860917702317238,
+        "Neutral": 0.0243845134973526,
+        "Sentiment": "positive",
+        "MaxScore": 0.9557545781135559
+    },
+    {
+        "Sentence": "depreciation and amortization increased for both segments primarily due to higher amortization of purchased and internally developed software and higher depreciation of hardware , driven by capital expenditures in 2022 and the first quarter of 2023 to enhance our technological infrastructure to support growth of the business .",
+        "Positive": 0.9545268416404724,
+        "Negative": 0.02201751433312893,
+        "Neutral": 0.02345564216375351,
+        "Sentiment": "positive",
+        "MaxScore": 0.9545268416404724
+    },
+    {
+        "Sentence": "segment expenses excluding interestinvestor services total expenses excluding interest increased by 5 % in the first quarter of 2023 compared to the same quarter in 2022 , while advisor services total expenses excluding interest increased by 10 % in the first quarter of 2023 compared to the same quarter in 2022 .",
+        "Positive": 0.9545239806175232,
+        "Negative": 0.025666028261184692,
+        "Neutral": 0.01980995200574398,
+        "Sentiment": "positive",
+        "MaxScore": 0.9545239806175232
+    },
+    {
+        "Sentence": "these increases reflected higher compensation and benefits expense , higher occupancy and equipment expense , and higher depreciation and amortization expense , as we continued to invest in our people and technology to support ongoing growth in our client base .",
+        "Positive": 0.9525514245033264,
+        "Negative": 0.019957423210144043,
+        "Neutral": 0.027491142973303795,
+        "Sentiment": "positive",
+        "MaxScore": 0.9525514245033264
+    },
+    {
+        "Sentence": "asset management and administration fees totaled $ 1 . 1 & # 160 ; billion in the first quarter of 2023 , rising 5 % year - over - year as growth in money market funds and the elimination of fee waivers more than offset lower average client asset balances due to declines in equity markets relative to the first quarter of 2022 .",
+        "Positive": 0.9525279402732849,
+        "Negative": 0.02595660649240017,
+        "Neutral": 0.021515412256121635,
+        "Sentiment": "positive",
+        "MaxScore": 0.9525279402732849
+    },
+    {
+        "Sentence": "adjusted diluted eps ( 1 ) , which excludes acquisition and integration - related costs , amortization of acquired intangible assets , and related income tax effects , was $ . 93 , increasing 21 % from the first quarter of 2022 .",
+        "Positive": 0.9521743059158325,
+        "Negative": 0.024468693882226944,
+        "Neutral": 0.023357033729553223,
+        "Sentiment": "positive",
+        "MaxScore": 0.9521743059158325
+    },
+    {
+        "Sentence": "adjusted total expenses ( 1 ) were $ 2 . 8 billion , increasing 7 % from the first quarter of 2022 .",
+        "Positive": 0.9509398937225342,
+        "Negative": 0.02255008928477764,
+        "Neutral": 0.02651006355881691,
+        "Sentiment": "positive",
+        "MaxScore": 0.9509398937225342
+    },
+    {
+        "Sentence": "core net new assets totaled $ 131 . 7 billion in the first quarter of 2023 , representing an annualized organic growth rate of over 7 % , and total client assets were $ 7 . 58 trillion at march 31 , 2023 , up 8 % from year - end 2022 .",
+        "Positive": 0.9502556324005127,
+        "Negative": 0.018135812133550644,
+        "Neutral": 0.03160855174064636,
+        "Sentiment": "positive",
+        "MaxScore": 0.9502556324005127
+    },
+    {
+        "Sentence": "net income totaled $ 1 . 6 billion in the first quarter of 2023 , rising 14 % from the first quarter of 2022 , and the company produced diluted earnings per common share ( eps ) of $ . 83 , - 4 - the charles schwab corporationmanagement & # 8217 ; s discussion and analysis of financial condition and results of operations ( tabular amounts in millions , except ratios , or as noted ) up 24 % from the first quarter of 2022 .",
+        "Positive": 0.9479444622993469,
+        "Negative": 0.030294382944703102,
+        "Neutral": 0.021761102601885796,
+        "Sentiment": "positive",
+        "MaxScore": 0.9479444622993469
+    },
+    {
+        "Sentence": "during the first quarter of 2023 , we increased our quarterly common dividend by 14 % to $ . 25 per share , and returned capital via common and preferred stock repurchases , which totaled $ 2 . 8 billion and $ 467 million , respectively , during the first quarter of 2023 .",
+        "Positive": 0.9468477368354797,
+        "Negative": 0.01567087322473526,
+        "Neutral": 0.03748142346739769,
+        "Sentiment": "positive",
+        "MaxScore": 0.9468477368354797
+    }
+]
