@@ -37,7 +37,7 @@ services:
       - "2888:2888"
       - "3888:3888"
   hdfs-namenode:
-    image: gchq/hdfs:${HADOOP_VERSION}
+    image: hdfs:${HADOOP_VERSION}
     depends_on:
       zookeeper:
         condition: service_healthy
@@ -48,7 +48,7 @@ services:
       retries: 3
       start_period: 5s
     build:
-      context: ./hdfs/
+      context: hdfs
       args:
         HADOOP_VERSION: ${HADOOP_VERSION}
     command: namenode
@@ -65,7 +65,7 @@ services:
       - /data2
 
   hdfs-datanode:
-    image: gchq/hdfs:${HADOOP_VERSION}
+    image: hdfs:${HADOOP_VERSION}
     depends_on:
       hdfs-namenode:
         condition: service_healthy
@@ -81,7 +81,7 @@ services:
       - /data2
 
   accumulo-master:
-    image: gchq/accumulo:${ACCUMULO_VERSION}
+    image: accumulo:${ACCUMULO_VERSION}
     depends_on:
       hdfs-namenode:
         condition: service_healthy
@@ -92,7 +92,7 @@ services:
       retries: 3
       start_period: 5s
     build:
-      context: .
+      context: accumulo
       args:
         ACCUMULO_VERSION: ${ACCUMULO_VERSION}
         HADOOP_VERSION: ${HADOOP_VERSION}
@@ -115,7 +115,7 @@ services:
       - "9999:9999"
       - "9996:9996"
   accumulo-tserver:
-    image: gchq/accumulo:${ACCUMULO_VERSION}
+    image: accumulo:${ACCUMULO_VERSION}
     depends_on:
       accumulo-master:
         condition: service_healthy
@@ -138,7 +138,7 @@ services:
 
 
   accumulo-monitor:
-    image: gchq/accumulo:${ACCUMULO_VERSION}
+    image: accumulo:${ACCUMULO_VERSION}
     depends_on:
       accumulo-master:
         condition: service_healthy
@@ -157,7 +157,7 @@ services:
       - /var/log/accumulo
 
   accumulo-gc:
-    image: gchq/accumulo:${ACCUMULO_VERSION}
+    image: accumulo:${ACCUMULO_VERSION}
     depends_on:
       accumulo-master:
         condition: service_healthy
