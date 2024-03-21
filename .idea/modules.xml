@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytic-service.iml" filepath="$PROJECT_DIR$/.idea/modules/analytic-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytic-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/analytic-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/analytic-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/analytic-service.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/grockstock.iml" filepath="$PROJECT_DIR$/grockstock.iml" />
       <module fileurl="file://$PROJECT_DIR$/code/ml/ml.iml" filepath="$PROJECT_DIR$/code/ml/ml.iml" />
     </modules>
